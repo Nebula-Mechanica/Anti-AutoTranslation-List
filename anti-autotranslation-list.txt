@@ -1,6 +1,6 @@
 ! Title: Anti-AutoTranslation-List
-365airsoft.com
 4answered.com
+365airsoft.com
 answer-id.com
 askdev.info
 ciupacabra.com
@@ -34,6 +34,8 @@ qa-help.ru
 qaru.site
 qna.one
 quabr.com
+questions.pliz.biz
+refaq.ru
 ruphp.com
 rupython.com
 stackovernet.com
@@ -41,5 +43,6 @@ stackoverrun.com
 switch-case.com
 switch-case.ru
 ubuntugeeks.com
+voidcc.com
 vpros.ru
 while-do.com
