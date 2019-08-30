@@ -1,6 +1,6 @@
 ! Title: Anti-AutoTranslation-List
-4answered.com
 365airsoft.com
+4answered.com
 answer-id.com
 askdev.info
 ciupacabra.com
@@ -22,13 +22,17 @@ devask.gr
 devask.in
 devask.nl
 exceptionshub.com
+fliplinux.com
 frageit.de
 i-harness.com
 issue.life
 itkerdes.com
 itproblemy.pl
+ityouth.ru
+javahow.ru
 kotaeta.com
 ohandroid.com
+onstartup.ru
 programmerz.ru
 qa-help.ru
 qaru.site
