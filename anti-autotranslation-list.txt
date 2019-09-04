@@ -1,4 +1,5 @@
 ! Title: Anti-AutoTranslation-List
+! Expires: 2 days
 365airsoft.com
 4answered.com
 answer-id.com
