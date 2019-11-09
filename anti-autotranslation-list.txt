@@ -1,9 +1,10 @@
-! Title: Anti-AutoTranslation-List
 ! Expires: 2 days
+! Title: Anti-AutoTranslation-List
 365airsoft.com
 4answered.com
 answer-id.com
 askdev.info
+askubuntu.ru
 ciupacabra.com
 code-examples.net
 code.i-harness.com
@@ -36,6 +37,7 @@ ohandroid.com
 onstartup.ru
 poweruser.guru
 programmerz.ru
+proubuntu.ru
 qa-help.ru
 qaru.site
 qna.one
