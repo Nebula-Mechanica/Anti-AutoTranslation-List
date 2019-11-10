@@ -1,6 +1,7 @@
 #!/bin/bash
 IFS=$'\n'
 FILTER_TEMPLATE[1]='google.*##.rc:has(a[href*="@@@/"])'
+FILTER_TEMPLATE[2]='google.*##.xpd.mnr-c:has(a[href*="@@@/"])'
 DOMAINS_LIST="anti-autotranslation-list.txt"
 CSS_LIST="anti-autotranslation-list-css.txt"
 FULL_LIST="anti-autotranslation-list-full.txt"
