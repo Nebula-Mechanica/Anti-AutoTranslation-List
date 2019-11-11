@@ -5,4 +5,10 @@ Add this link to your filter list:
 
 <https://raw.githubusercontent.com/Nebula-Mechanica/Anti-AutoTranslation-List/master/anti-autotranslation-list.txt>
 
+EXPERIMENTAL:
+
+Support for hiding urls in search results without any special extensions! Add full list to your adblocker:
+
+<https://raw.githubusercontent.com/Nebula-Mechanica/Anti-AutoTranslation-List/master/anti-autotranslation-list-full.txt>
+
 Feel free to suggest other resources like this via pull request or issues!
