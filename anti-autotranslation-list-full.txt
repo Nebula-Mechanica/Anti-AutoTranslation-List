@@ -1,6 +1,7 @@
 ! Title: Anti-AutoTranslation-List
 ! Expires: 2 days
 365airsoft.com
+3d-freedom.ru
 4answered.com
 answer-id.com
 askdev.info
@@ -63,6 +64,9 @@ while-do.com
 google.*##.rc:has(a[href*="365airsoft.com/"])
 google.*##.nrgt:has(a[href*="365airsoft.com/"])
 google.*##.xpd.mnr-c:has(a[href*="365airsoft.com/"])
+google.*##.rc:has(a[href*="3d-freedom.ru/"])
+google.*##.nrgt:has(a[href*="3d-freedom.ru/"])
+google.*##.xpd.mnr-c:has(a[href*="3d-freedom.ru/"])
 google.*##.rc:has(a[href*="4answered.com/"])
 google.*##.nrgt:has(a[href*="4answered.com/"])
 google.*##.xpd.mnr-c:has(a[href*="4answered.com/"])
