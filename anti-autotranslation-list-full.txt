@@ -8,9 +8,9 @@ askdev.info
 askubuntu.ru
 bilee.com
 ciupacabra.com
-code-examples.net
 code.i-harness.com
 codeday.me
+code-examples.net
 coredump.guru
 coredump.ist
 coredump.one
@@ -20,11 +20,11 @@ coredump.su
 coredump.tech
 coredump.uno
 craftjs.com
-de-vraag.com
 devask.cz
 devask.gr
 devask.in
 devask.nl
+de-vraag.com
 exceptionshub.com
 fliplinux.com
 frageit.de
@@ -59,6 +59,7 @@ vpros.ru
 web-answers.ru
 while-do.com
 
+
 # CSS Rules
 
 google.*##.rc:has(a[href*="365airsoft.com/"])
@@ -85,15 +86,15 @@ google.*##.xpd.mnr-c:has(a[href*="bilee.com/"])
 google.*##.rc:has(a[href*="ciupacabra.com/"])
 google.*##.nrgt:has(a[href*="ciupacabra.com/"])
 google.*##.xpd.mnr-c:has(a[href*="ciupacabra.com/"])
-google.*##.rc:has(a[href*="code-examples.net/"])
-google.*##.nrgt:has(a[href*="code-examples.net/"])
-google.*##.xpd.mnr-c:has(a[href*="code-examples.net/"])
 google.*##.rc:has(a[href*="code.i-harness.com/"])
 google.*##.nrgt:has(a[href*="code.i-harness.com/"])
 google.*##.xpd.mnr-c:has(a[href*="code.i-harness.com/"])
 google.*##.rc:has(a[href*="codeday.me/"])
 google.*##.nrgt:has(a[href*="codeday.me/"])
 google.*##.xpd.mnr-c:has(a[href*="codeday.me/"])
+google.*##.rc:has(a[href*="code-examples.net/"])
+google.*##.nrgt:has(a[href*="code-examples.net/"])
+google.*##.xpd.mnr-c:has(a[href*="code-examples.net/"])
 google.*##.rc:has(a[href*="coredump.guru/"])
 google.*##.nrgt:has(a[href*="coredump.guru/"])
 google.*##.xpd.mnr-c:has(a[href*="coredump.guru/"])
@@ -121,9 +122,6 @@ google.*##.xpd.mnr-c:has(a[href*="coredump.uno/"])
 google.*##.rc:has(a[href*="craftjs.com/"])
 google.*##.nrgt:has(a[href*="craftjs.com/"])
 google.*##.xpd.mnr-c:has(a[href*="craftjs.com/"])
-google.*##.rc:has(a[href*="de-vraag.com/"])
-google.*##.nrgt:has(a[href*="de-vraag.com/"])
-google.*##.xpd.mnr-c:has(a[href*="de-vraag.com/"])
 google.*##.rc:has(a[href*="devask.cz/"])
 google.*##.nrgt:has(a[href*="devask.cz/"])
 google.*##.xpd.mnr-c:has(a[href*="devask.cz/"])
@@ -136,6 +134,9 @@ google.*##.xpd.mnr-c:has(a[href*="devask.in/"])
 google.*##.rc:has(a[href*="devask.nl/"])
 google.*##.nrgt:has(a[href*="devask.nl/"])
 google.*##.xpd.mnr-c:has(a[href*="devask.nl/"])
+google.*##.rc:has(a[href*="de-vraag.com/"])
+google.*##.nrgt:has(a[href*="de-vraag.com/"])
+google.*##.xpd.mnr-c:has(a[href*="de-vraag.com/"])
 google.*##.rc:has(a[href*="exceptionshub.com/"])
 google.*##.nrgt:has(a[href*="exceptionshub.com/"])
 google.*##.xpd.mnr-c:has(a[href*="exceptionshub.com/"])
