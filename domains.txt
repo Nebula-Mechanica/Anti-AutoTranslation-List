@@ -3,8 +3,10 @@
 4answered.com
 answer-id.com
 askdev.info
+asknix.com
 askubuntu.ru
 bilee.com
+chubuntu.com
 ciupacabra.com
 code.i-harness.com
 codeday.me
@@ -23,6 +25,7 @@ devask.gr
 devask.in
 devask.nl
 de-vraag.com
+domandesunix.com
 exceptionshub.com
 fliplinux.com
 frageit.de
@@ -30,6 +33,7 @@ i-harness.com
 issue.life
 itkerdes.com
 itproblemy.pl
+it-swarm.net
 ityouth.ru
 javahow.ru
 kotaeta.com
@@ -38,6 +42,7 @@ onstartup.ru
 poweruser.guru
 programmerz.ru
 proubuntu.ru
+qaes.website
 qa-help.ru
 qaru.site
 qna.one
@@ -46,12 +51,15 @@ questions.pliz.biz
 refaq.ru
 ruphp.com
 rupython.com
+sobrelinux.info
 sprosi.pro
 stackovernet.com
 stackoverrun.com
 switch-case.com
 switch-case.ru
 ubuntugeeks.com
+ubuntuplace.info
+ubuntuweb.info
 voidcc.com
 vpros.ru
 web-answers.ru
