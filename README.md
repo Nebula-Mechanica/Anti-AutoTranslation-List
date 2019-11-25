@@ -1,14 +1,13 @@
 # Anti-AutoTranslation-List
-List for uBlock Origin (and possibly other adblockers), containing auto-translated site clones of StackOverflow and other services. Also, rules could be imported into some search filtering extension (at least [this](https://addons.mozilla.org/ru/firefox/addon/personal-blocklist/) works).
+List for uBlock Origin (and possibly other adblockers), containing auto-translated site clones of StackOverflow and other services.
+Now have support for hiding urls in search results (Google-only for now) without any special extensions!
 
-Add this link to your filter list:
-
-<https://raw.githubusercontent.com/Nebula-Mechanica/Anti-AutoTranslation-List/master/anti-autotranslation-list.txt>
-
-EXPERIMENTAL:
-
-Support for hiding urls in search results without any special extensions! Add full list to your adblocker:
+Add this link to your adblocker filter list:
 
 <https://raw.githubusercontent.com/Nebula-Mechanica/Anti-AutoTranslation-List/master/anti-autotranslation-list-full.txt>
 
-Feel free to suggest other resources like this via pull request or issues!
+If you don't want CSS-based search filtering:
+
+<https://raw.githubusercontent.com/Nebula-Mechanica/Anti-AutoTranslation-List/master/anti-autotranslation-list.txt>
+
+Feel free to suggest other resources like this via issues (please, do not send pull requests, or at least use my list generator provided)!
