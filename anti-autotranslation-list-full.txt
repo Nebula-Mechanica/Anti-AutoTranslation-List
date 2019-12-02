@@ -7,6 +7,7 @@ answer-id.com
 askdev.info
 asknix.com
 askubuntu.ru
+ask-ubuntu.ru
 bilee.com
 chubuntu.com
 ciupacabra.com
@@ -62,6 +63,7 @@ switch-case.ru
 ubuntugeeks.com
 ubuntuplace.info
 ubuntuweb.info
+usersuper.ru
 voidcc.com
 vpros.ru
 web-answers.ru
@@ -91,6 +93,9 @@ google.*##.xpd.mnr-c:has(a[href*="asknix.com/"])
 google.*##.rc:has(a[href*="askubuntu.ru/"])
 google.*##.nrgt:has(a[href*="askubuntu.ru/"])
 google.*##.xpd.mnr-c:has(a[href*="askubuntu.ru/"])
+google.*##.rc:has(a[href*="ask-ubuntu.ru/"])
+google.*##.nrgt:has(a[href*="ask-ubuntu.ru/"])
+google.*##.xpd.mnr-c:has(a[href*="ask-ubuntu.ru/"])
 google.*##.rc:has(a[href*="bilee.com/"])
 google.*##.nrgt:has(a[href*="bilee.com/"])
 google.*##.xpd.mnr-c:has(a[href*="bilee.com/"])
@@ -256,6 +261,9 @@ google.*##.xpd.mnr-c:has(a[href*="ubuntuplace.info/"])
 google.*##.rc:has(a[href*="ubuntuweb.info/"])
 google.*##.nrgt:has(a[href*="ubuntuweb.info/"])
 google.*##.xpd.mnr-c:has(a[href*="ubuntuweb.info/"])
+google.*##.rc:has(a[href*="usersuper.ru/"])
+google.*##.nrgt:has(a[href*="usersuper.ru/"])
+google.*##.xpd.mnr-c:has(a[href*="usersuper.ru/"])
 google.*##.rc:has(a[href*="voidcc.com/"])
 google.*##.nrgt:has(a[href*="voidcc.com/"])
 google.*##.xpd.mnr-c:has(a[href*="voidcc.com/"])

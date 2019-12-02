@@ -7,6 +7,7 @@ answer-id.com
 askdev.info
 asknix.com
 askubuntu.ru
+ask-ubuntu.ru
 bilee.com
 chubuntu.com
 ciupacabra.com
@@ -62,6 +63,7 @@ switch-case.ru
 ubuntugeeks.com
 ubuntuplace.info
 ubuntuweb.info
+usersuper.ru
 voidcc.com
 vpros.ru
 web-answers.ru
