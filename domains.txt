@@ -3,9 +3,11 @@
 4answered.com
 answer-id.com
 askdev.info
+askdev.io
 asknix.com
 askubuntu.ru
 ask-ubuntu.ru
+askvoprosy.com
 bilee.com
 chubuntu.com
 ciupacabra.com
@@ -38,8 +40,10 @@ it-swarm.net
 ityouth.ru
 javahow.ru
 kotaeta.com
+myht.ru
 ohandroid.com
 onstartup.ru
+overcoder.net
 poweruser.guru
 programmerz.ru
 proubuntu.ru
