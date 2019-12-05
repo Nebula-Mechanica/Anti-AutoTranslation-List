@@ -72,6 +72,7 @@ voidcc.com
 vpros.ru
 web-answers.ru
 while-do.com
+wikiroot.ru
 
 
 # CSS Rules
@@ -292,3 +293,6 @@ google.*##.xpd.mnr-c:has(a[href*="web-answers.ru/"])
 google.*##.rc:has(a[href*="while-do.com/"])
 google.*##.nrgt:has(a[href*="while-do.com/"])
 google.*##.xpd.mnr-c:has(a[href*="while-do.com/"])
+google.*##.rc:has(a[href*="wikiroot.ru/"])
+google.*##.nrgt:has(a[href*="wikiroot.ru/"])
+google.*##.xpd.mnr-c:has(a[href*="wikiroot.ru/"])
