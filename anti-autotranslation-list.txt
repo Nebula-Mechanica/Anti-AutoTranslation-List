@@ -7,15 +7,15 @@ answer-id.com
 askdev.info
 askdev.io
 asknix.com
-askubuntu.ru
 ask-ubuntu.ru
+askubuntu.ru
 askvoprosy.com
 bilee.com
 chubuntu.com
 ciupacabra.com
-code.i-harness.com
 codeday.me
 code-examples.net
+code.i-harness.com
 coredump.guru
 coredump.ist
 coredump.one
@@ -33,6 +33,7 @@ de-vraag.com
 domandesunix.com
 exceptionshub.com
 fliplinux.com
+fooobar.com
 frageit.de
 i-harness.com
 issue.life
