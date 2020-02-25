@@ -6,6 +6,7 @@ IFS=$'\n'
 FILTER_TEMPLATE[1]='google.*##.rc:has(a[href*="@@@/"])'
 FILTER_TEMPLATE[2]='google.*##.nrgt:has(a[href*="@@@/"])'
 FILTER_TEMPLATE[3]='google.*##.xpd.mnr-c:has(a[href*="@@@/"])'
+FILTER_TEMPLATE[4]='duckduckgo.com##.result[data-domain$="@@@"]'
 
 WORKDIR="./workdir"
 HEADER="header.txt"
