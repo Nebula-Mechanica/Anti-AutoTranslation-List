@@ -1,6 +1,6 @@
 # Anti-AutoTranslation-List
 List for uBlock Origin (and possibly other adblockers), containing auto-translated site clones of StackOverflow and other services.
-Now have support for hiding urls in search results (Google-only for now) without any special extensions!
+Now have support for hiding urls in search results (Google and DuckDuckGo for now) without any special extensions!
 
 Add this link to your adblocker filter list:
 
