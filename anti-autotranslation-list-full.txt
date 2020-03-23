@@ -98,6 +98,7 @@ refaq.ru
 rstopup.com
 ruphp.com
 rupython.com
+showtop.info
 sobrelinux.info
 soinside.com
 soinside.com
@@ -916,6 +917,14 @@ duckduckgo.com##.web-result:has(a[href*="rupython.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="rupython.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="rupython.com/"]) + tr
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="rupython.com/"]) + tr + tr
+google.*##.rc:has(a[href*="showtop.info/"])
+google.*##.nrgt:has(a[href*="showtop.info/"])
+google.*##.xpd.mnr-c:has(a[href*="showtop.info/"])
+duckduckgo.com##.result[data-domain$="showtop.info"]
+duckduckgo.com##.web-result:has(a[href*="showtop.info/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="showtop.info/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="showtop.info/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="showtop.info/"]) + tr + tr
 google.*##.rc:has(a[href*="sobrelinux.info/"])
 google.*##.nrgt:has(a[href*="sobrelinux.info/"])
 google.*##.xpd.mnr-c:has(a[href*="sobrelinux.info/"])
