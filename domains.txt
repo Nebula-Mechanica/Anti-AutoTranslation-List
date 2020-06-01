@@ -92,6 +92,7 @@ qna.one
 quabr.com
 questions.pliz.biz
 quick-geek.github.io
+qwe.wiki
 refaq.ru
 rstopup.com
 ruphp.com
