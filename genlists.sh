@@ -14,6 +14,8 @@ FILTER_TEMPLATE[5]='duckduckgo.com##.web-result:has(a[href*="@@@/"])'
 FILTER_TEMPLATE[6]='duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="@@@/"])'
 FILTER_TEMPLATE[7]='duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="@@@/"]) + tr'
 FILTER_TEMPLATE[8]='duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="@@@/"]) + tr + tr'
+#Startpage
+FILTER_TEMPLATE[9]='startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="@@@/"])'
 
 WORKDIR="./workdir"
 HEADER="header.txt"
