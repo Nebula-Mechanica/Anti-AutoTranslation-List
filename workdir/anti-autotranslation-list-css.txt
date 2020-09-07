@@ -709,6 +709,15 @@ duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][hre
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="progexact.com/"]) + tr
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="progexact.com/"]) + tr + tr
 startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="progexact.com/"])
+google.*##.rc:has(a[href*="progi.pro/"])
+google.*##.nrgt:has(a[href*="progi.pro/"])
+google.*##.xpd.mnr-c:has(a[href*="progi.pro/"])
+duckduckgo.com##.result[data-domain$="progi.pro"]
+duckduckgo.com##.web-result:has(a[href*="progi.pro/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="progi.pro/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="progi.pro/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="progi.pro/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="progi.pro/"])
 google.*##.rc:has(a[href*="programmerz.ru/"])
 google.*##.nrgt:has(a[href*="programmerz.ru/"])
 google.*##.xpd.mnr-c:has(a[href*="programmerz.ru/"])
