@@ -1,6 +1,5 @@
 ! Title: Anti-AutoTranslation-List
 ! Expires: 2 days
-
 1r1g.com
 365airsoft.com
 3d-freedom.ru
@@ -94,6 +93,7 @@ qarus.ru
 qastack.cn
 qastack.co.in
 qastack.com.br
+qastack.com.de
 qastack.com.ua
 qastack.fr
 qastack.id
@@ -119,7 +119,6 @@ ruphp.com
 rupython.com
 showtop.info
 sobrelinux.info
-soinside.com
 soinside.com
 sozdizimi.com
 sprosi.pro

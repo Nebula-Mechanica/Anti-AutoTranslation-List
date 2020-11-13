@@ -1,6 +1,5 @@
 ! Title: Anti-AutoTranslation-List
 ! Expires: 2 days
-
 1r1g.com
 365airsoft.com
 3d-freedom.ru
@@ -94,6 +93,7 @@ qarus.ru
 qastack.cn
 qastack.co.in
 qastack.com.br
+qastack.com.de
 qastack.com.ua
 qastack.fr
 qastack.id
@@ -119,7 +119,6 @@ ruphp.com
 rupython.com
 showtop.info
 sobrelinux.info
-soinside.com
 soinside.com
 sozdizimi.com
 sprosi.pro
@@ -989,6 +988,15 @@ duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][hre
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.com.br/"]) + tr
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.com.br/"]) + tr + tr
 startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.com.br/"])
+google.*##.rc:has(a[href*="qastack.com.de/"])
+google.*##.nrgt:has(a[href*="qastack.com.de/"])
+google.*##.xpd.mnr-c:has(a[href*="qastack.com.de/"])
+duckduckgo.com##.result[data-domain$="qastack.com.de"]
+duckduckgo.com##.web-result:has(a[href*="qastack.com.de/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.com.de/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.com.de/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.com.de/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.com.de/"])
 google.*##.rc:has(a[href*="qastack.com.ua/"])
 google.*##.nrgt:has(a[href*="qastack.com.ua/"])
 google.*##.xpd.mnr-c:has(a[href*="qastack.com.ua/"])
@@ -1214,15 +1222,6 @@ duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][hre
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="sobrelinux.info/"]) + tr
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="sobrelinux.info/"]) + tr + tr
 startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="sobrelinux.info/"])
-google.*##.rc:has(a[href*="soinside.com/"])
-google.*##.nrgt:has(a[href*="soinside.com/"])
-google.*##.xpd.mnr-c:has(a[href*="soinside.com/"])
-duckduckgo.com##.result[data-domain$="soinside.com"]
-duckduckgo.com##.web-result:has(a[href*="soinside.com/"])
-duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="soinside.com/"])
-duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="soinside.com/"]) + tr
-duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="soinside.com/"]) + tr + tr
-startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="soinside.com/"])
 google.*##.rc:has(a[href*="soinside.com/"])
 google.*##.nrgt:has(a[href*="soinside.com/"])
 google.*##.xpd.mnr-c:has(a[href*="soinside.com/"])
