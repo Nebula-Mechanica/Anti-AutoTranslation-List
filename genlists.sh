@@ -6,7 +6,7 @@ IFS=$'\n'
 #Google
 FILTER_TEMPLATE[1]='google.*##.rc:has(a[href*="@@@/"])'
 FILTER_TEMPLATE[2]='google.*##.nrgt:has(a[href*="@@@/"])'
-FILTER_TEMPLATE[3]='google.*##.xpd.mnr-c:has(a[href*="@@@/"])'
+FILTER_TEMPLATE[3]='google.*##.xpd.uUPGi:has(a[href*="@@@/"])'
 #DuckDuckGo
 FILTER_TEMPLATE[4]='duckduckgo.com##.result[data-domain$="@@@"]'
 FILTER_TEMPLATE[5]='duckduckgo.com##.web-result:has(a[href*="@@@/"])'
