@@ -131,6 +131,7 @@ stackru.com
 stackz.ru
 switch-case.com
 switch-case.ru
+techexpert.tips
 thinbug.com
 ubuntugeeks.com
 ubuntuplace.info
@@ -1461,6 +1462,16 @@ duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][hre
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="switch-case.ru/"]) + tr
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="switch-case.ru/"]) + tr + tr
 startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="switch-case.ru/"])
+google.*##.rc:has(a[href*="techexpert.tips/"])
+google.*##.nrgt:has(a[href*="techexpert.tips/"])
+google.*##.xpd.uUPGi:has(a[href*="techexpert.tips/"])
+google.*##.g:has(a[href*="techexpert.tips/"])
+duckduckgo.com##.result[data-domain$="techexpert.tips"]
+duckduckgo.com##.web-result:has(a[href*="techexpert.tips/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="techexpert.tips/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="techexpert.tips/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="techexpert.tips/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="techexpert.tips/"])
 google.*##.rc:has(a[href*="thinbug.com/"])
 google.*##.nrgt:has(a[href*="thinbug.com/"])
 google.*##.xpd.uUPGi:has(a[href*="thinbug.com/"])
