@@ -7,15 +7,16 @@ IFS=$'\n'
 FILTER_TEMPLATE[1]='google.*##.rc:has(a[href*="@@@/"])'
 FILTER_TEMPLATE[2]='google.*##.nrgt:has(a[href*="@@@/"])'
 FILTER_TEMPLATE[3]='google.*##.xpd.uUPGi:has(a[href*="@@@/"])'
+FILTER_TEMPLATE[4]='google.*##.g:has(a[href*="@@@/"])'
 #DuckDuckGo
-FILTER_TEMPLATE[4]='duckduckgo.com##.result[data-domain$="@@@"]'
-FILTER_TEMPLATE[5]='duckduckgo.com##.web-result:has(a[href*="@@@/"])'
+FILTER_TEMPLATE[5]='duckduckgo.com##.result[data-domain$="@@@"]'
+FILTER_TEMPLATE[6]='duckduckgo.com##.web-result:has(a[href*="@@@/"])'
 #DuckDuckGo Lite
-FILTER_TEMPLATE[6]='duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="@@@/"])'
-FILTER_TEMPLATE[7]='duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="@@@/"]) + tr'
-FILTER_TEMPLATE[8]='duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="@@@/"]) + tr + tr'
+FILTER_TEMPLATE[7]='duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="@@@/"])'
+FILTER_TEMPLATE[8]='duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="@@@/"]) + tr'
+FILTER_TEMPLATE[9]='duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="@@@/"]) + tr + tr'
 #Startpage
-FILTER_TEMPLATE[9]='startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="@@@/"])'
+FILTER_TEMPLATE[10]='startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="@@@/"])'
 
 WORKDIR="./workdir"
 HEADER="header.txt"

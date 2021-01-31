@@ -154,6 +154,7 @@ zapytay.com
 google.*##.rc:has(a[href*="1r1g.com/"])
 google.*##.nrgt:has(a[href*="1r1g.com/"])
 google.*##.xpd.uUPGi:has(a[href*="1r1g.com/"])
+google.*##.g:has(a[href*="1r1g.com/"])
 duckduckgo.com##.result[data-domain$="1r1g.com"]
 duckduckgo.com##.web-result:has(a[href*="1r1g.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="1r1g.com/"])
@@ -163,6 +164,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="1r1g.com/"
 google.*##.rc:has(a[href*="365airsoft.com/"])
 google.*##.nrgt:has(a[href*="365airsoft.com/"])
 google.*##.xpd.uUPGi:has(a[href*="365airsoft.com/"])
+google.*##.g:has(a[href*="365airsoft.com/"])
 duckduckgo.com##.result[data-domain$="365airsoft.com"]
 duckduckgo.com##.web-result:has(a[href*="365airsoft.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="365airsoft.com/"])
@@ -172,6 +174,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="365airsoft
 google.*##.rc:has(a[href*="3d-freedom.ru/"])
 google.*##.nrgt:has(a[href*="3d-freedom.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="3d-freedom.ru/"])
+google.*##.g:has(a[href*="3d-freedom.ru/"])
 duckduckgo.com##.result[data-domain$="3d-freedom.ru"]
 duckduckgo.com##.web-result:has(a[href*="3d-freedom.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="3d-freedom.ru/"])
@@ -181,6 +184,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="3d-freedom
 google.*##.rc:has(a[href*="4answered.com/"])
 google.*##.nrgt:has(a[href*="4answered.com/"])
 google.*##.xpd.uUPGi:has(a[href*="4answered.com/"])
+google.*##.g:has(a[href*="4answered.com/"])
 duckduckgo.com##.result[data-domain$="4answered.com"]
 duckduckgo.com##.web-result:has(a[href*="4answered.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="4answered.com/"])
@@ -190,6 +194,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="4answered.
 google.*##.rc:has(a[href*="answer-id.com/"])
 google.*##.nrgt:has(a[href*="answer-id.com/"])
 google.*##.xpd.uUPGi:has(a[href*="answer-id.com/"])
+google.*##.g:has(a[href*="answer-id.com/"])
 duckduckgo.com##.result[data-domain$="answer-id.com"]
 duckduckgo.com##.web-result:has(a[href*="answer-id.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="answer-id.com/"])
@@ -199,6 +204,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="answer-id.
 google.*##.rc:has(a[href*="answeright.com/"])
 google.*##.nrgt:has(a[href*="answeright.com/"])
 google.*##.xpd.uUPGi:has(a[href*="answeright.com/"])
+google.*##.g:has(a[href*="answeright.com/"])
 duckduckgo.com##.result[data-domain$="answeright.com"]
 duckduckgo.com##.web-result:has(a[href*="answeright.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="answeright.com/"])
@@ -208,6 +214,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="answeright
 google.*##.rc:has(a[href*="askdev.info/"])
 google.*##.nrgt:has(a[href*="askdev.info/"])
 google.*##.xpd.uUPGi:has(a[href*="askdev.info/"])
+google.*##.g:has(a[href*="askdev.info/"])
 duckduckgo.com##.result[data-domain$="askdev.info"]
 duckduckgo.com##.web-result:has(a[href*="askdev.info/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askdev.info/"])
@@ -217,6 +224,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="askdev.inf
 google.*##.rc:has(a[href*="askdev.io/"])
 google.*##.nrgt:has(a[href*="askdev.io/"])
 google.*##.xpd.uUPGi:has(a[href*="askdev.io/"])
+google.*##.g:has(a[href*="askdev.io/"])
 duckduckgo.com##.result[data-domain$="askdev.io"]
 duckduckgo.com##.web-result:has(a[href*="askdev.io/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askdev.io/"])
@@ -226,6 +234,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="askdev.io/
 google.*##.rc:has(a[href*="askdev.ru/"])
 google.*##.nrgt:has(a[href*="askdev.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="askdev.ru/"])
+google.*##.g:has(a[href*="askdev.ru/"])
 duckduckgo.com##.result[data-domain$="askdev.ru"]
 duckduckgo.com##.web-result:has(a[href*="askdev.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askdev.ru/"])
@@ -235,6 +244,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="askdev.ru/
 google.*##.rc:has(a[href*="asknix.com/"])
 google.*##.nrgt:has(a[href*="asknix.com/"])
 google.*##.xpd.uUPGi:has(a[href*="asknix.com/"])
+google.*##.g:has(a[href*="asknix.com/"])
 duckduckgo.com##.result[data-domain$="asknix.com"]
 duckduckgo.com##.web-result:has(a[href*="asknix.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="asknix.com/"])
@@ -244,6 +254,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="asknix.com
 google.*##.rc:has(a[href*="ask-ubuntu.ru/"])
 google.*##.nrgt:has(a[href*="ask-ubuntu.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="ask-ubuntu.ru/"])
+google.*##.g:has(a[href*="ask-ubuntu.ru/"])
 duckduckgo.com##.result[data-domain$="ask-ubuntu.ru"]
 duckduckgo.com##.web-result:has(a[href*="ask-ubuntu.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ask-ubuntu.ru/"])
@@ -253,6 +264,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="ask-ubuntu
 google.*##.rc:has(a[href*="askubuntu.ru/"])
 google.*##.nrgt:has(a[href*="askubuntu.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="askubuntu.ru/"])
+google.*##.g:has(a[href*="askubuntu.ru/"])
 duckduckgo.com##.result[data-domain$="askubuntu.ru"]
 duckduckgo.com##.web-result:has(a[href*="askubuntu.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askubuntu.ru/"])
@@ -262,6 +274,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="askubuntu.
 google.*##.rc:has(a[href*="askvoprosy.com/"])
 google.*##.nrgt:has(a[href*="askvoprosy.com/"])
 google.*##.xpd.uUPGi:has(a[href*="askvoprosy.com/"])
+google.*##.g:has(a[href*="askvoprosy.com/"])
 duckduckgo.com##.result[data-domain$="askvoprosy.com"]
 duckduckgo.com##.web-result:has(a[href*="askvoprosy.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askvoprosy.com/"])
@@ -271,6 +284,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="askvoprosy
 google.*##.rc:has(a[href*="bestecode.com/"])
 google.*##.nrgt:has(a[href*="bestecode.com/"])
 google.*##.xpd.uUPGi:has(a[href*="bestecode.com/"])
+google.*##.g:has(a[href*="bestecode.com/"])
 duckduckgo.com##.result[data-domain$="bestecode.com"]
 duckduckgo.com##.web-result:has(a[href*="bestecode.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="bestecode.com/"])
@@ -280,6 +294,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="bestecode.
 google.*##.rc:has(a[href*="bildiredi.com/"])
 google.*##.nrgt:has(a[href*="bildiredi.com/"])
 google.*##.xpd.uUPGi:has(a[href*="bildiredi.com/"])
+google.*##.g:has(a[href*="bildiredi.com/"])
 duckduckgo.com##.result[data-domain$="bildiredi.com"]
 duckduckgo.com##.web-result:has(a[href*="bildiredi.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="bildiredi.com/"])
@@ -289,6 +304,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="bildiredi.
 google.*##.rc:has(a[href*="bilee.com/"])
 google.*##.nrgt:has(a[href*="bilee.com/"])
 google.*##.xpd.uUPGi:has(a[href*="bilee.com/"])
+google.*##.g:has(a[href*="bilee.com/"])
 duckduckgo.com##.result[data-domain$="bilee.com"]
 duckduckgo.com##.web-result:has(a[href*="bilee.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="bilee.com/"])
@@ -298,6 +314,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="bilee.com/
 google.*##.rc:has(a[href*="bonprog.com/"])
 google.*##.nrgt:has(a[href*="bonprog.com/"])
 google.*##.xpd.uUPGi:has(a[href*="bonprog.com/"])
+google.*##.g:has(a[href*="bonprog.com/"])
 duckduckgo.com##.result[data-domain$="bonprog.com"]
 duckduckgo.com##.web-result:has(a[href*="bonprog.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="bonprog.com/"])
@@ -307,6 +324,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="bonprog.co
 google.*##.rc:has(a[href*="brokencontrollers.com/"])
 google.*##.nrgt:has(a[href*="brokencontrollers.com/"])
 google.*##.xpd.uUPGi:has(a[href*="brokencontrollers.com/"])
+google.*##.g:has(a[href*="brokencontrollers.com/"])
 duckduckgo.com##.result[data-domain$="brokencontrollers.com"]
 duckduckgo.com##.web-result:has(a[href*="brokencontrollers.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="brokencontrollers.com/"])
@@ -316,6 +334,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="brokencont
 google.*##.rc:has(a[href*="chubuntu.com/"])
 google.*##.nrgt:has(a[href*="chubuntu.com/"])
 google.*##.xpd.uUPGi:has(a[href*="chubuntu.com/"])
+google.*##.g:has(a[href*="chubuntu.com/"])
 duckduckgo.com##.result[data-domain$="chubuntu.com"]
 duckduckgo.com##.web-result:has(a[href*="chubuntu.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="chubuntu.com/"])
@@ -325,6 +344,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="chubuntu.c
 google.*##.rc:has(a[href*="ciupacabra.com/"])
 google.*##.nrgt:has(a[href*="ciupacabra.com/"])
 google.*##.xpd.uUPGi:has(a[href*="ciupacabra.com/"])
+google.*##.g:has(a[href*="ciupacabra.com/"])
 duckduckgo.com##.result[data-domain$="ciupacabra.com"]
 duckduckgo.com##.web-result:has(a[href*="ciupacabra.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ciupacabra.com/"])
@@ -334,6 +354,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="ciupacabra
 google.*##.rc:has(a[href*="code-adviser.com/"])
 google.*##.nrgt:has(a[href*="code-adviser.com/"])
 google.*##.xpd.uUPGi:has(a[href*="code-adviser.com/"])
+google.*##.g:has(a[href*="code-adviser.com/"])
 duckduckgo.com##.result[data-domain$="code-adviser.com"]
 duckduckgo.com##.web-result:has(a[href*="code-adviser.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="code-adviser.com/"])
@@ -343,6 +364,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="code-advis
 google.*##.rc:has(a[href*="codeday.me/"])
 google.*##.nrgt:has(a[href*="codeday.me/"])
 google.*##.xpd.uUPGi:has(a[href*="codeday.me/"])
+google.*##.g:has(a[href*="codeday.me/"])
 duckduckgo.com##.result[data-domain$="codeday.me"]
 duckduckgo.com##.web-result:has(a[href*="codeday.me/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="codeday.me/"])
@@ -352,6 +374,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="codeday.me
 google.*##.rc:has(a[href*="code-examples.net/"])
 google.*##.nrgt:has(a[href*="code-examples.net/"])
 google.*##.xpd.uUPGi:has(a[href*="code-examples.net/"])
+google.*##.g:has(a[href*="code-examples.net/"])
 duckduckgo.com##.result[data-domain$="code-examples.net"]
 duckduckgo.com##.web-result:has(a[href*="code-examples.net/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="code-examples.net/"])
@@ -361,6 +384,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="code-examp
 google.*##.rc:has(a[href*="code.i-harness.com/"])
 google.*##.nrgt:has(a[href*="code.i-harness.com/"])
 google.*##.xpd.uUPGi:has(a[href*="code.i-harness.com/"])
+google.*##.g:has(a[href*="code.i-harness.com/"])
 duckduckgo.com##.result[data-domain$="code.i-harness.com"]
 duckduckgo.com##.web-result:has(a[href*="code.i-harness.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="code.i-harness.com/"])
@@ -370,6 +394,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="code.i-har
 google.*##.rc:has(a[href*="codeindex.ru/"])
 google.*##.nrgt:has(a[href*="codeindex.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="codeindex.ru/"])
+google.*##.g:has(a[href*="codeindex.ru/"])
 duckduckgo.com##.result[data-domain$="codeindex.ru"]
 duckduckgo.com##.web-result:has(a[href*="codeindex.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="codeindex.ru/"])
@@ -379,6 +404,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="codeindex.
 google.*##.rc:has(a[href*="codengineering.ru/"])
 google.*##.nrgt:has(a[href*="codengineering.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="codengineering.ru/"])
+google.*##.g:has(a[href*="codengineering.ru/"])
 duckduckgo.com##.result[data-domain$="codengineering.ru"]
 duckduckgo.com##.web-result:has(a[href*="codengineering.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="codengineering.ru/"])
@@ -388,6 +414,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="codenginee
 google.*##.rc:has(a[href*="coderoad.ru/"])
 google.*##.nrgt:has(a[href*="coderoad.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="coderoad.ru/"])
+google.*##.g:has(a[href*="coderoad.ru/"])
 duckduckgo.com##.result[data-domain$="coderoad.ru"]
 duckduckgo.com##.web-result:has(a[href*="coderoad.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coderoad.ru/"])
@@ -397,6 +424,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coderoad.r
 google.*##.rc:has(a[href*="coderquestion.ru/"])
 google.*##.nrgt:has(a[href*="coderquestion.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="coderquestion.ru/"])
+google.*##.g:has(a[href*="coderquestion.ru/"])
 duckduckgo.com##.result[data-domain$="coderquestion.ru"]
 duckduckgo.com##.web-result:has(a[href*="coderquestion.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coderquestion.ru/"])
@@ -406,6 +434,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coderquest
 google.*##.rc:has(a[href*="coredump.biz/"])
 google.*##.nrgt:has(a[href*="coredump.biz/"])
 google.*##.xpd.uUPGi:has(a[href*="coredump.biz/"])
+google.*##.g:has(a[href*="coredump.biz/"])
 duckduckgo.com##.result[data-domain$="coredump.biz"]
 duckduckgo.com##.web-result:has(a[href*="coredump.biz/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.biz/"])
@@ -415,6 +444,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coredump.b
 google.*##.rc:has(a[href*="coredump.guru/"])
 google.*##.nrgt:has(a[href*="coredump.guru/"])
 google.*##.xpd.uUPGi:has(a[href*="coredump.guru/"])
+google.*##.g:has(a[href*="coredump.guru/"])
 duckduckgo.com##.result[data-domain$="coredump.guru"]
 duckduckgo.com##.web-result:has(a[href*="coredump.guru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.guru/"])
@@ -424,6 +454,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coredump.g
 google.*##.rc:has(a[href*="coredump.ist/"])
 google.*##.nrgt:has(a[href*="coredump.ist/"])
 google.*##.xpd.uUPGi:has(a[href*="coredump.ist/"])
+google.*##.g:has(a[href*="coredump.ist/"])
 duckduckgo.com##.result[data-domain$="coredump.ist"]
 duckduckgo.com##.web-result:has(a[href*="coredump.ist/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.ist/"])
@@ -433,6 +464,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coredump.i
 google.*##.rc:has(a[href*="coredump.one/"])
 google.*##.nrgt:has(a[href*="coredump.one/"])
 google.*##.xpd.uUPGi:has(a[href*="coredump.one/"])
+google.*##.g:has(a[href*="coredump.one/"])
 duckduckgo.com##.result[data-domain$="coredump.one"]
 duckduckgo.com##.web-result:has(a[href*="coredump.one/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.one/"])
@@ -442,6 +474,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coredump.o
 google.*##.rc:has(a[href*="coredump.pt/"])
 google.*##.nrgt:has(a[href*="coredump.pt/"])
 google.*##.xpd.uUPGi:has(a[href*="coredump.pt/"])
+google.*##.g:has(a[href*="coredump.pt/"])
 duckduckgo.com##.result[data-domain$="coredump.pt"]
 duckduckgo.com##.web-result:has(a[href*="coredump.pt/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.pt/"])
@@ -451,6 +484,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coredump.p
 google.*##.rc:has(a[href*="coredump.ro/"])
 google.*##.nrgt:has(a[href*="coredump.ro/"])
 google.*##.xpd.uUPGi:has(a[href*="coredump.ro/"])
+google.*##.g:has(a[href*="coredump.ro/"])
 duckduckgo.com##.result[data-domain$="coredump.ro"]
 duckduckgo.com##.web-result:has(a[href*="coredump.ro/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.ro/"])
@@ -460,6 +494,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coredump.r
 google.*##.rc:has(a[href*="coredump.su/"])
 google.*##.nrgt:has(a[href*="coredump.su/"])
 google.*##.xpd.uUPGi:has(a[href*="coredump.su/"])
+google.*##.g:has(a[href*="coredump.su/"])
 duckduckgo.com##.result[data-domain$="coredump.su"]
 duckduckgo.com##.web-result:has(a[href*="coredump.su/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.su/"])
@@ -469,6 +504,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coredump.s
 google.*##.rc:has(a[href*="coredump.tech/"])
 google.*##.nrgt:has(a[href*="coredump.tech/"])
 google.*##.xpd.uUPGi:has(a[href*="coredump.tech/"])
+google.*##.g:has(a[href*="coredump.tech/"])
 duckduckgo.com##.result[data-domain$="coredump.tech"]
 duckduckgo.com##.web-result:has(a[href*="coredump.tech/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.tech/"])
@@ -478,6 +514,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coredump.t
 google.*##.rc:has(a[href*="coredump.uno/"])
 google.*##.nrgt:has(a[href*="coredump.uno/"])
 google.*##.xpd.uUPGi:has(a[href*="coredump.uno/"])
+google.*##.g:has(a[href*="coredump.uno/"])
 duckduckgo.com##.result[data-domain$="coredump.uno"]
 duckduckgo.com##.web-result:has(a[href*="coredump.uno/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.uno/"])
@@ -487,6 +524,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coredump.u
 google.*##.rc:has(a[href*="craftjs.com/"])
 google.*##.nrgt:has(a[href*="craftjs.com/"])
 google.*##.xpd.uUPGi:has(a[href*="craftjs.com/"])
+google.*##.g:has(a[href*="craftjs.com/"])
 duckduckgo.com##.result[data-domain$="craftjs.com"]
 duckduckgo.com##.web-result:has(a[href*="craftjs.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="craftjs.com/"])
@@ -496,6 +534,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="craftjs.co
 google.*##.rc:has(a[href*="devask.cz/"])
 google.*##.nrgt:has(a[href*="devask.cz/"])
 google.*##.xpd.uUPGi:has(a[href*="devask.cz/"])
+google.*##.g:has(a[href*="devask.cz/"])
 duckduckgo.com##.result[data-domain$="devask.cz"]
 duckduckgo.com##.web-result:has(a[href*="devask.cz/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="devask.cz/"])
@@ -505,6 +544,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="devask.cz/
 google.*##.rc:has(a[href*="devask.gr/"])
 google.*##.nrgt:has(a[href*="devask.gr/"])
 google.*##.xpd.uUPGi:has(a[href*="devask.gr/"])
+google.*##.g:has(a[href*="devask.gr/"])
 duckduckgo.com##.result[data-domain$="devask.gr"]
 duckduckgo.com##.web-result:has(a[href*="devask.gr/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="devask.gr/"])
@@ -514,6 +554,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="devask.gr/
 google.*##.rc:has(a[href*="devask.in/"])
 google.*##.nrgt:has(a[href*="devask.in/"])
 google.*##.xpd.uUPGi:has(a[href*="devask.in/"])
+google.*##.g:has(a[href*="devask.in/"])
 duckduckgo.com##.result[data-domain$="devask.in"]
 duckduckgo.com##.web-result:has(a[href*="devask.in/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="devask.in/"])
@@ -523,6 +564,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="devask.in/
 google.*##.rc:has(a[href*="devask.nl/"])
 google.*##.nrgt:has(a[href*="devask.nl/"])
 google.*##.xpd.uUPGi:has(a[href*="devask.nl/"])
+google.*##.g:has(a[href*="devask.nl/"])
 duckduckgo.com##.result[data-domain$="devask.nl"]
 duckduckgo.com##.web-result:has(a[href*="devask.nl/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="devask.nl/"])
@@ -532,6 +574,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="devask.nl/
 google.*##.rc:has(a[href*="develop-bugs.com/"])
 google.*##.nrgt:has(a[href*="develop-bugs.com/"])
 google.*##.xpd.uUPGi:has(a[href*="develop-bugs.com/"])
+google.*##.g:has(a[href*="develop-bugs.com/"])
 duckduckgo.com##.result[data-domain$="develop-bugs.com"]
 duckduckgo.com##.web-result:has(a[href*="develop-bugs.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="develop-bugs.com/"])
@@ -541,6 +584,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="develop-bu
 google.*##.rc:has(a[href*="developreference.com/"])
 google.*##.nrgt:has(a[href*="developreference.com/"])
 google.*##.xpd.uUPGi:has(a[href*="developreference.com/"])
+google.*##.g:has(a[href*="developreference.com/"])
 duckduckgo.com##.result[data-domain$="developreference.com"]
 duckduckgo.com##.web-result:has(a[href*="developreference.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="developreference.com/"])
@@ -550,6 +594,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="developref
 google.*##.rc:has(a[href*="de-vraag.com/"])
 google.*##.nrgt:has(a[href*="de-vraag.com/"])
 google.*##.xpd.uUPGi:has(a[href*="de-vraag.com/"])
+google.*##.g:has(a[href*="de-vraag.com/"])
 duckduckgo.com##.result[data-domain$="de-vraag.com"]
 duckduckgo.com##.web-result:has(a[href*="de-vraag.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="de-vraag.com/"])
@@ -559,6 +604,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="de-vraag.c
 google.*##.rc:has(a[href*="domandesunix.com/"])
 google.*##.nrgt:has(a[href*="domandesunix.com/"])
 google.*##.xpd.uUPGi:has(a[href*="domandesunix.com/"])
+google.*##.g:has(a[href*="domandesunix.com/"])
 duckduckgo.com##.result[data-domain$="domandesunix.com"]
 duckduckgo.com##.web-result:has(a[href*="domandesunix.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="domandesunix.com/"])
@@ -568,6 +614,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="domandesun
 google.*##.rc:has(a[href*="donolik.com/"])
 google.*##.nrgt:has(a[href*="donolik.com/"])
 google.*##.xpd.uUPGi:has(a[href*="donolik.com/"])
+google.*##.g:has(a[href*="donolik.com/"])
 duckduckgo.com##.result[data-domain$="donolik.com"]
 duckduckgo.com##.web-result:has(a[href*="donolik.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="donolik.com/"])
@@ -577,6 +624,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="donolik.co
 google.*##.rc:has(a[href*="e-learn.cn/"])
 google.*##.nrgt:has(a[href*="e-learn.cn/"])
 google.*##.xpd.uUPGi:has(a[href*="e-learn.cn/"])
+google.*##.g:has(a[href*="e-learn.cn/"])
 duckduckgo.com##.result[data-domain$="e-learn.cn"]
 duckduckgo.com##.web-result:has(a[href*="e-learn.cn/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="e-learn.cn/"])
@@ -586,6 +634,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="e-learn.cn
 google.*##.rc:has(a[href*="exceptionshub.com/"])
 google.*##.nrgt:has(a[href*="exceptionshub.com/"])
 google.*##.xpd.uUPGi:has(a[href*="exceptionshub.com/"])
+google.*##.g:has(a[href*="exceptionshub.com/"])
 duckduckgo.com##.result[data-domain$="exceptionshub.com"]
 duckduckgo.com##.web-result:has(a[href*="exceptionshub.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="exceptionshub.com/"])
@@ -595,6 +644,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="exceptions
 google.*##.rc:has(a[href*="ffff65535.com/"])
 google.*##.nrgt:has(a[href*="ffff65535.com/"])
 google.*##.xpd.uUPGi:has(a[href*="ffff65535.com/"])
+google.*##.g:has(a[href*="ffff65535.com/"])
 duckduckgo.com##.result[data-domain$="ffff65535.com"]
 duckduckgo.com##.web-result:has(a[href*="ffff65535.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ffff65535.com/"])
@@ -604,6 +654,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="ffff65535.
 google.*##.rc:has(a[href*="fliplinux.com/"])
 google.*##.nrgt:has(a[href*="fliplinux.com/"])
 google.*##.xpd.uUPGi:has(a[href*="fliplinux.com/"])
+google.*##.g:has(a[href*="fliplinux.com/"])
 duckduckgo.com##.result[data-domain$="fliplinux.com"]
 duckduckgo.com##.web-result:has(a[href*="fliplinux.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="fliplinux.com/"])
@@ -613,6 +664,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="fliplinux.
 google.*##.rc:has(a[href*="fooobar.com/"])
 google.*##.nrgt:has(a[href*="fooobar.com/"])
 google.*##.xpd.uUPGi:has(a[href*="fooobar.com/"])
+google.*##.g:has(a[href*="fooobar.com/"])
 duckduckgo.com##.result[data-domain$="fooobar.com"]
 duckduckgo.com##.web-result:has(a[href*="fooobar.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="fooobar.com/"])
@@ -622,6 +674,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="fooobar.co
 google.*##.rc:has(a[href*="frageit.de/"])
 google.*##.nrgt:has(a[href*="frageit.de/"])
 google.*##.xpd.uUPGi:has(a[href*="frageit.de/"])
+google.*##.g:has(a[href*="frageit.de/"])
 duckduckgo.com##.result[data-domain$="frageit.de"]
 duckduckgo.com##.web-result:has(a[href*="frageit.de/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="frageit.de/"])
@@ -631,6 +684,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="frageit.de
 google.*##.rc:has(a[href*="husl.ru/"])
 google.*##.nrgt:has(a[href*="husl.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="husl.ru/"])
+google.*##.g:has(a[href*="husl.ru/"])
 duckduckgo.com##.result[data-domain$="husl.ru"]
 duckduckgo.com##.web-result:has(a[href*="husl.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="husl.ru/"])
@@ -640,6 +694,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="husl.ru/"]
 google.*##.rc:has(a[href*="icode9.com/"])
 google.*##.nrgt:has(a[href*="icode9.com/"])
 google.*##.xpd.uUPGi:has(a[href*="icode9.com/"])
+google.*##.g:has(a[href*="icode9.com/"])
 duckduckgo.com##.result[data-domain$="icode9.com"]
 duckduckgo.com##.web-result:has(a[href*="icode9.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="icode9.com/"])
@@ -649,6 +704,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="icode9.com
 google.*##.rc:has(a[href*="i-harness.com/"])
 google.*##.nrgt:has(a[href*="i-harness.com/"])
 google.*##.xpd.uUPGi:has(a[href*="i-harness.com/"])
+google.*##.g:has(a[href*="i-harness.com/"])
 duckduckgo.com##.result[data-domain$="i-harness.com"]
 duckduckgo.com##.web-result:has(a[href*="i-harness.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="i-harness.com/"])
@@ -658,6 +714,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="i-harness.
 google.*##.rc:has(a[href*="intellipaat.com/"])
 google.*##.nrgt:has(a[href*="intellipaat.com/"])
 google.*##.xpd.uUPGi:has(a[href*="intellipaat.com/"])
+google.*##.g:has(a[href*="intellipaat.com/"])
 duckduckgo.com##.result[data-domain$="intellipaat.com"]
 duckduckgo.com##.web-result:has(a[href*="intellipaat.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="intellipaat.com/"])
@@ -667,6 +724,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="intellipaa
 google.*##.rc:has(a[href*="issue.life/"])
 google.*##.nrgt:has(a[href*="issue.life/"])
 google.*##.xpd.uUPGi:has(a[href*="issue.life/"])
+google.*##.g:has(a[href*="issue.life/"])
 duckduckgo.com##.result[data-domain$="issue.life"]
 duckduckgo.com##.web-result:has(a[href*="issue.life/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="issue.life/"])
@@ -676,6 +734,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="issue.life
 google.*##.rc:has(a[href*="itdaan.com/"])
 google.*##.nrgt:has(a[href*="itdaan.com/"])
 google.*##.xpd.uUPGi:has(a[href*="itdaan.com/"])
+google.*##.g:has(a[href*="itdaan.com/"])
 duckduckgo.com##.result[data-domain$="itdaan.com"]
 duckduckgo.com##.web-result:has(a[href*="itdaan.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="itdaan.com/"])
@@ -685,6 +744,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="itdaan.com
 google.*##.rc:has(a[href*="itkerdes.com/"])
 google.*##.nrgt:has(a[href*="itkerdes.com/"])
 google.*##.xpd.uUPGi:has(a[href*="itkerdes.com/"])
+google.*##.g:has(a[href*="itkerdes.com/"])
 duckduckgo.com##.result[data-domain$="itkerdes.com"]
 duckduckgo.com##.web-result:has(a[href*="itkerdes.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="itkerdes.com/"])
@@ -694,6 +754,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="itkerdes.c
 google.*##.rc:has(a[href*="itproblemy.pl/"])
 google.*##.nrgt:has(a[href*="itproblemy.pl/"])
 google.*##.xpd.uUPGi:has(a[href*="itproblemy.pl/"])
+google.*##.g:has(a[href*="itproblemy.pl/"])
 duckduckgo.com##.result[data-domain$="itproblemy.pl"]
 duckduckgo.com##.web-result:has(a[href*="itproblemy.pl/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="itproblemy.pl/"])
@@ -703,6 +764,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="itproblemy
 google.*##.rc:has(a[href*="itranslater.com/"])
 google.*##.nrgt:has(a[href*="itranslater.com/"])
 google.*##.xpd.uUPGi:has(a[href*="itranslater.com/"])
+google.*##.g:has(a[href*="itranslater.com/"])
 duckduckgo.com##.result[data-domain$="itranslater.com"]
 duckduckgo.com##.web-result:has(a[href*="itranslater.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="itranslater.com/"])
@@ -712,6 +774,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="itranslate
 google.*##.rc:has(a[href*="it-swarm.asia/"])
 google.*##.nrgt:has(a[href*="it-swarm.asia/"])
 google.*##.xpd.uUPGi:has(a[href*="it-swarm.asia/"])
+google.*##.g:has(a[href*="it-swarm.asia/"])
 duckduckgo.com##.result[data-domain$="it-swarm.asia"]
 duckduckgo.com##.web-result:has(a[href*="it-swarm.asia/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="it-swarm.asia/"])
@@ -721,6 +784,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="it-swarm.a
 google.*##.rc:has(a[href*="it-swarm.dev/"])
 google.*##.nrgt:has(a[href*="it-swarm.dev/"])
 google.*##.xpd.uUPGi:has(a[href*="it-swarm.dev/"])
+google.*##.g:has(a[href*="it-swarm.dev/"])
 duckduckgo.com##.result[data-domain$="it-swarm.dev"]
 duckduckgo.com##.web-result:has(a[href*="it-swarm.dev/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="it-swarm.dev/"])
@@ -730,6 +794,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="it-swarm.d
 google.*##.rc:has(a[href*="it-swarm.net/"])
 google.*##.nrgt:has(a[href*="it-swarm.net/"])
 google.*##.xpd.uUPGi:has(a[href*="it-swarm.net/"])
+google.*##.g:has(a[href*="it-swarm.net/"])
 duckduckgo.com##.result[data-domain$="it-swarm.net"]
 duckduckgo.com##.web-result:has(a[href*="it-swarm.net/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="it-swarm.net/"])
@@ -739,6 +804,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="it-swarm.n
 google.*##.rc:has(a[href*="it-swarm.xyz/"])
 google.*##.nrgt:has(a[href*="it-swarm.xyz/"])
 google.*##.xpd.uUPGi:has(a[href*="it-swarm.xyz/"])
+google.*##.g:has(a[href*="it-swarm.xyz/"])
 duckduckgo.com##.result[data-domain$="it-swarm.xyz"]
 duckduckgo.com##.web-result:has(a[href*="it-swarm.xyz/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="it-swarm.xyz/"])
@@ -748,6 +814,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="it-swarm.x
 google.*##.rc:has(a[href*="ityouth.ru/"])
 google.*##.nrgt:has(a[href*="ityouth.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="ityouth.ru/"])
+google.*##.g:has(a[href*="ityouth.ru/"])
 duckduckgo.com##.result[data-domain$="ityouth.ru"]
 duckduckgo.com##.web-result:has(a[href*="ityouth.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ityouth.ru/"])
@@ -757,6 +824,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="ityouth.ru
 google.*##.rc:has(a[href*="javahow.ru/"])
 google.*##.nrgt:has(a[href*="javahow.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="javahow.ru/"])
+google.*##.g:has(a[href*="javahow.ru/"])
 duckduckgo.com##.result[data-domain$="javahow.ru"]
 duckduckgo.com##.web-result:has(a[href*="javahow.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="javahow.ru/"])
@@ -766,6 +834,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="javahow.ru
 google.*##.rc:has(a[href*="kompsekret.ru/"])
 google.*##.nrgt:has(a[href*="kompsekret.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="kompsekret.ru/"])
+google.*##.g:has(a[href*="kompsekret.ru/"])
 duckduckgo.com##.result[data-domain$="kompsekret.ru"]
 duckduckgo.com##.web-result:has(a[href*="kompsekret.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="kompsekret.ru/"])
@@ -775,6 +844,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="kompsekret
 google.*##.rc:has(a[href*="kotaeta.com/"])
 google.*##.nrgt:has(a[href*="kotaeta.com/"])
 google.*##.xpd.uUPGi:has(a[href*="kotaeta.com/"])
+google.*##.g:has(a[href*="kotaeta.com/"])
 duckduckgo.com##.result[data-domain$="kotaeta.com"]
 duckduckgo.com##.web-result:has(a[href*="kotaeta.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="kotaeta.com/"])
@@ -784,6 +854,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="kotaeta.co
 google.*##.rc:has(a[href*="myht.ru/"])
 google.*##.nrgt:has(a[href*="myht.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="myht.ru/"])
+google.*##.g:has(a[href*="myht.ru/"])
 duckduckgo.com##.result[data-domain$="myht.ru"]
 duckduckgo.com##.web-result:has(a[href*="myht.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="myht.ru/"])
@@ -793,6 +864,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="myht.ru/"]
 google.*##.rc:has(a[href*="ohandroid.com/"])
 google.*##.nrgt:has(a[href*="ohandroid.com/"])
 google.*##.xpd.uUPGi:has(a[href*="ohandroid.com/"])
+google.*##.g:has(a[href*="ohandroid.com/"])
 duckduckgo.com##.result[data-domain$="ohandroid.com"]
 duckduckgo.com##.web-result:has(a[href*="ohandroid.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ohandroid.com/"])
@@ -802,6 +874,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="ohandroid.
 google.*##.rc:has(a[href*="oipapio.com/"])
 google.*##.nrgt:has(a[href*="oipapio.com/"])
 google.*##.xpd.uUPGi:has(a[href*="oipapio.com/"])
+google.*##.g:has(a[href*="oipapio.com/"])
 duckduckgo.com##.result[data-domain$="oipapio.com"]
 duckduckgo.com##.web-result:has(a[href*="oipapio.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="oipapio.com/"])
@@ -811,6 +884,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="oipapio.co
 google.*##.rc:has(a[href*="onstartup.ru/"])
 google.*##.nrgt:has(a[href*="onstartup.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="onstartup.ru/"])
+google.*##.g:has(a[href*="onstartup.ru/"])
 duckduckgo.com##.result[data-domain$="onstartup.ru"]
 duckduckgo.com##.web-result:has(a[href*="onstartup.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="onstartup.ru/"])
@@ -820,6 +894,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="onstartup.
 google.*##.rc:has(a[href*="overcoder.net/"])
 google.*##.nrgt:has(a[href*="overcoder.net/"])
 google.*##.xpd.uUPGi:has(a[href*="overcoder.net/"])
+google.*##.g:has(a[href*="overcoder.net/"])
 duckduckgo.com##.result[data-domain$="overcoder.net"]
 duckduckgo.com##.web-result:has(a[href*="overcoder.net/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="overcoder.net/"])
@@ -829,6 +904,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="overcoder.
 google.*##.rc:has(a[href*="poweruser.guru/"])
 google.*##.nrgt:has(a[href*="poweruser.guru/"])
 google.*##.xpd.uUPGi:has(a[href*="poweruser.guru/"])
+google.*##.g:has(a[href*="poweruser.guru/"])
 duckduckgo.com##.result[data-domain$="poweruser.guru"]
 duckduckgo.com##.web-result:has(a[href*="poweruser.guru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="poweruser.guru/"])
@@ -838,6 +914,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="poweruser.
 google.*##.rc:has(a[href*="profikoder.com/"])
 google.*##.nrgt:has(a[href*="profikoder.com/"])
 google.*##.xpd.uUPGi:has(a[href*="profikoder.com/"])
+google.*##.g:has(a[href*="profikoder.com/"])
 duckduckgo.com##.result[data-domain$="profikoder.com"]
 duckduckgo.com##.web-result:has(a[href*="profikoder.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="profikoder.com/"])
@@ -847,6 +924,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="profikoder
 google.*##.rc:has(a[href*="progaide.com/"])
 google.*##.nrgt:has(a[href*="progaide.com/"])
 google.*##.xpd.uUPGi:has(a[href*="progaide.com/"])
+google.*##.g:has(a[href*="progaide.com/"])
 duckduckgo.com##.result[data-domain$="progaide.com"]
 duckduckgo.com##.web-result:has(a[href*="progaide.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="progaide.com/"])
@@ -856,6 +934,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="progaide.c
 google.*##.rc:has(a[href*="progexact.com/"])
 google.*##.nrgt:has(a[href*="progexact.com/"])
 google.*##.xpd.uUPGi:has(a[href*="progexact.com/"])
+google.*##.g:has(a[href*="progexact.com/"])
 duckduckgo.com##.result[data-domain$="progexact.com"]
 duckduckgo.com##.web-result:has(a[href*="progexact.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="progexact.com/"])
@@ -865,6 +944,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="progexact.
 google.*##.rc:has(a[href*="progi.pro/"])
 google.*##.nrgt:has(a[href*="progi.pro/"])
 google.*##.xpd.uUPGi:has(a[href*="progi.pro/"])
+google.*##.g:has(a[href*="progi.pro/"])
 duckduckgo.com##.result[data-domain$="progi.pro"]
 duckduckgo.com##.web-result:has(a[href*="progi.pro/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="progi.pro/"])
@@ -874,6 +954,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="progi.pro/
 google.*##.rc:has(a[href*="programmerz.ru/"])
 google.*##.nrgt:has(a[href*="programmerz.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="programmerz.ru/"])
+google.*##.g:has(a[href*="programmerz.ru/"])
 duckduckgo.com##.result[data-domain$="programmerz.ru"]
 duckduckgo.com##.web-result:has(a[href*="programmerz.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="programmerz.ru/"])
@@ -883,6 +964,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="programmer
 google.*##.rc:has(a[href*="programqa.com/"])
 google.*##.nrgt:has(a[href*="programqa.com/"])
 google.*##.xpd.uUPGi:has(a[href*="programqa.com/"])
+google.*##.g:has(a[href*="programqa.com/"])
 duckduckgo.com##.result[data-domain$="programqa.com"]
 duckduckgo.com##.web-result:has(a[href*="programqa.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="programqa.com/"])
@@ -892,6 +974,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="programqa.
 google.*##.rc:has(a[href*="proubuntu.ru/"])
 google.*##.nrgt:has(a[href*="proubuntu.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="proubuntu.ru/"])
+google.*##.g:has(a[href*="proubuntu.ru/"])
 duckduckgo.com##.result[data-domain$="proubuntu.ru"]
 duckduckgo.com##.web-result:has(a[href*="proubuntu.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="proubuntu.ru/"])
@@ -901,6 +984,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="proubuntu.
 google.*##.rc:has(a[href*="pytannie.com/"])
 google.*##.nrgt:has(a[href*="pytannie.com/"])
 google.*##.xpd.uUPGi:has(a[href*="pytannie.com/"])
+google.*##.g:has(a[href*="pytannie.com/"])
 duckduckgo.com##.result[data-domain$="pytannie.com"]
 duckduckgo.com##.web-result:has(a[href*="pytannie.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="pytannie.com/"])
@@ -910,6 +994,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="pytannie.c
 google.*##.rc:has(a[href*="qacode.ru/"])
 google.*##.nrgt:has(a[href*="qacode.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="qacode.ru/"])
+google.*##.g:has(a[href*="qacode.ru/"])
 duckduckgo.com##.result[data-domain$="qacode.ru"]
 duckduckgo.com##.web-result:has(a[href*="qacode.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qacode.ru/"])
@@ -919,6 +1004,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qacode.ru/
 google.*##.rc:has(a[href*="qaes.website/"])
 google.*##.nrgt:has(a[href*="qaes.website/"])
 google.*##.xpd.uUPGi:has(a[href*="qaes.website/"])
+google.*##.g:has(a[href*="qaes.website/"])
 duckduckgo.com##.result[data-domain$="qaes.website"]
 duckduckgo.com##.web-result:has(a[href*="qaes.website/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qaes.website/"])
@@ -928,6 +1014,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qaes.websi
 google.*##.rc:has(a[href*="qa-help.ru/"])
 google.*##.nrgt:has(a[href*="qa-help.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="qa-help.ru/"])
+google.*##.g:has(a[href*="qa-help.ru/"])
 duckduckgo.com##.result[data-domain$="qa-help.ru"]
 duckduckgo.com##.web-result:has(a[href*="qa-help.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qa-help.ru/"])
@@ -937,6 +1024,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qa-help.ru
 google.*##.rc:has(a[href*="qarchive.ru/"])
 google.*##.nrgt:has(a[href*="qarchive.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="qarchive.ru/"])
+google.*##.g:has(a[href*="qarchive.ru/"])
 duckduckgo.com##.result[data-domain$="qarchive.ru"]
 duckduckgo.com##.web-result:has(a[href*="qarchive.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qarchive.ru/"])
@@ -946,6 +1034,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qarchive.r
 google.*##.rc:has(a[href*="qaru.site/"])
 google.*##.nrgt:has(a[href*="qaru.site/"])
 google.*##.xpd.uUPGi:has(a[href*="qaru.site/"])
+google.*##.g:has(a[href*="qaru.site/"])
 duckduckgo.com##.result[data-domain$="qaru.site"]
 duckduckgo.com##.web-result:has(a[href*="qaru.site/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qaru.site/"])
@@ -955,6 +1044,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qaru.site/
 google.*##.rc:has(a[href*="qarus.ru/"])
 google.*##.nrgt:has(a[href*="qarus.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="qarus.ru/"])
+google.*##.g:has(a[href*="qarus.ru/"])
 duckduckgo.com##.result[data-domain$="qarus.ru"]
 duckduckgo.com##.web-result:has(a[href*="qarus.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qarus.ru/"])
@@ -964,6 +1054,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qarus.ru/"
 google.*##.rc:has(a[href*="qastack.cn/"])
 google.*##.nrgt:has(a[href*="qastack.cn/"])
 google.*##.xpd.uUPGi:has(a[href*="qastack.cn/"])
+google.*##.g:has(a[href*="qastack.cn/"])
 duckduckgo.com##.result[data-domain$="qastack.cn"]
 duckduckgo.com##.web-result:has(a[href*="qastack.cn/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.cn/"])
@@ -973,6 +1064,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.cn
 google.*##.rc:has(a[href*="qastack.co.in/"])
 google.*##.nrgt:has(a[href*="qastack.co.in/"])
 google.*##.xpd.uUPGi:has(a[href*="qastack.co.in/"])
+google.*##.g:has(a[href*="qastack.co.in/"])
 duckduckgo.com##.result[data-domain$="qastack.co.in"]
 duckduckgo.com##.web-result:has(a[href*="qastack.co.in/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.co.in/"])
@@ -982,6 +1074,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.co
 google.*##.rc:has(a[href*="qastack.com.br/"])
 google.*##.nrgt:has(a[href*="qastack.com.br/"])
 google.*##.xpd.uUPGi:has(a[href*="qastack.com.br/"])
+google.*##.g:has(a[href*="qastack.com.br/"])
 duckduckgo.com##.result[data-domain$="qastack.com.br"]
 duckduckgo.com##.web-result:has(a[href*="qastack.com.br/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.com.br/"])
@@ -991,6 +1084,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.co
 google.*##.rc:has(a[href*="qastack.com.de/"])
 google.*##.nrgt:has(a[href*="qastack.com.de/"])
 google.*##.xpd.uUPGi:has(a[href*="qastack.com.de/"])
+google.*##.g:has(a[href*="qastack.com.de/"])
 duckduckgo.com##.result[data-domain$="qastack.com.de"]
 duckduckgo.com##.web-result:has(a[href*="qastack.com.de/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.com.de/"])
@@ -1000,6 +1094,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.co
 google.*##.rc:has(a[href*="qastack.com.ua/"])
 google.*##.nrgt:has(a[href*="qastack.com.ua/"])
 google.*##.xpd.uUPGi:has(a[href*="qastack.com.ua/"])
+google.*##.g:has(a[href*="qastack.com.ua/"])
 duckduckgo.com##.result[data-domain$="qastack.com.ua"]
 duckduckgo.com##.web-result:has(a[href*="qastack.com.ua/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.com.ua/"])
@@ -1009,6 +1104,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.co
 google.*##.rc:has(a[href*="qastack.fr/"])
 google.*##.nrgt:has(a[href*="qastack.fr/"])
 google.*##.xpd.uUPGi:has(a[href*="qastack.fr/"])
+google.*##.g:has(a[href*="qastack.fr/"])
 duckduckgo.com##.result[data-domain$="qastack.fr"]
 duckduckgo.com##.web-result:has(a[href*="qastack.fr/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.fr/"])
@@ -1018,6 +1114,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.fr
 google.*##.rc:has(a[href*="qastack.id/"])
 google.*##.nrgt:has(a[href*="qastack.id/"])
 google.*##.xpd.uUPGi:has(a[href*="qastack.id/"])
+google.*##.g:has(a[href*="qastack.id/"])
 duckduckgo.com##.result[data-domain$="qastack.id"]
 duckduckgo.com##.web-result:has(a[href*="qastack.id/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.id/"])
@@ -1027,6 +1124,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.id
 google.*##.rc:has(a[href*="qastack.info.tr/"])
 google.*##.nrgt:has(a[href*="qastack.info.tr/"])
 google.*##.xpd.uUPGi:has(a[href*="qastack.info.tr/"])
+google.*##.g:has(a[href*="qastack.info.tr/"])
 duckduckgo.com##.result[data-domain$="qastack.info.tr"]
 duckduckgo.com##.web-result:has(a[href*="qastack.info.tr/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.info.tr/"])
@@ -1036,6 +1134,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.in
 google.*##.rc:has(a[href*="qastack.in.th/"])
 google.*##.nrgt:has(a[href*="qastack.in.th/"])
 google.*##.xpd.uUPGi:has(a[href*="qastack.in.th/"])
+google.*##.g:has(a[href*="qastack.in.th/"])
 duckduckgo.com##.result[data-domain$="qastack.in.th"]
 duckduckgo.com##.web-result:has(a[href*="qastack.in.th/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.in.th/"])
@@ -1045,6 +1144,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.in
 google.*##.rc:has(a[href*="qastack.it/"])
 google.*##.nrgt:has(a[href*="qastack.it/"])
 google.*##.xpd.uUPGi:has(a[href*="qastack.it/"])
+google.*##.g:has(a[href*="qastack.it/"])
 duckduckgo.com##.result[data-domain$="qastack.it"]
 duckduckgo.com##.web-result:has(a[href*="qastack.it/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.it/"])
@@ -1054,6 +1154,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.it
 google.*##.rc:has(a[href*="qastack.jp/"])
 google.*##.nrgt:has(a[href*="qastack.jp/"])
 google.*##.xpd.uUPGi:has(a[href*="qastack.jp/"])
+google.*##.g:has(a[href*="qastack.jp/"])
 duckduckgo.com##.result[data-domain$="qastack.jp"]
 duckduckgo.com##.web-result:has(a[href*="qastack.jp/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.jp/"])
@@ -1063,6 +1164,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.jp
 google.*##.rc:has(a[href*="qastack.kr/"])
 google.*##.nrgt:has(a[href*="qastack.kr/"])
 google.*##.xpd.uUPGi:has(a[href*="qastack.kr/"])
+google.*##.g:has(a[href*="qastack.kr/"])
 duckduckgo.com##.result[data-domain$="qastack.kr"]
 duckduckgo.com##.web-result:has(a[href*="qastack.kr/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.kr/"])
@@ -1072,6 +1174,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.kr
 google.*##.rc:has(a[href*="qastack.lk/"])
 google.*##.nrgt:has(a[href*="qastack.lk/"])
 google.*##.xpd.uUPGi:has(a[href*="qastack.lk/"])
+google.*##.g:has(a[href*="qastack.lk/"])
 duckduckgo.com##.result[data-domain$="qastack.lk"]
 duckduckgo.com##.web-result:has(a[href*="qastack.lk/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.lk/"])
@@ -1081,6 +1184,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.lk
 google.*##.rc:has(a[href*="qastack.mx/"])
 google.*##.nrgt:has(a[href*="qastack.mx/"])
 google.*##.xpd.uUPGi:has(a[href*="qastack.mx/"])
+google.*##.g:has(a[href*="qastack.mx/"])
 duckduckgo.com##.result[data-domain$="qastack.mx"]
 duckduckgo.com##.web-result:has(a[href*="qastack.mx/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.mx/"])
@@ -1090,6 +1194,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.mx
 google.*##.rc:has(a[href*="qastack.net.bd/"])
 google.*##.nrgt:has(a[href*="qastack.net.bd/"])
 google.*##.xpd.uUPGi:has(a[href*="qastack.net.bd/"])
+google.*##.g:has(a[href*="qastack.net.bd/"])
 duckduckgo.com##.result[data-domain$="qastack.net.bd"]
 duckduckgo.com##.web-result:has(a[href*="qastack.net.bd/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.net.bd/"])
@@ -1099,6 +1204,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.ne
 google.*##.rc:has(a[href*="qa-stack.pl/"])
 google.*##.nrgt:has(a[href*="qa-stack.pl/"])
 google.*##.xpd.uUPGi:has(a[href*="qa-stack.pl/"])
+google.*##.g:has(a[href*="qa-stack.pl/"])
 duckduckgo.com##.result[data-domain$="qa-stack.pl"]
 duckduckgo.com##.web-result:has(a[href*="qa-stack.pl/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qa-stack.pl/"])
@@ -1108,6 +1214,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qa-stack.p
 google.*##.rc:has(a[href*="qastack.ru/"])
 google.*##.nrgt:has(a[href*="qastack.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="qastack.ru/"])
+google.*##.g:has(a[href*="qastack.ru/"])
 duckduckgo.com##.result[data-domain$="qastack.ru"]
 duckduckgo.com##.web-result:has(a[href*="qastack.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.ru/"])
@@ -1117,6 +1224,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.ru
 google.*##.rc:has(a[href*="qastack.vn/"])
 google.*##.nrgt:has(a[href*="qastack.vn/"])
 google.*##.xpd.uUPGi:has(a[href*="qastack.vn/"])
+google.*##.g:has(a[href*="qastack.vn/"])
 duckduckgo.com##.result[data-domain$="qastack.vn"]
 duckduckgo.com##.web-result:has(a[href*="qastack.vn/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.vn/"])
@@ -1126,6 +1234,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.vn
 google.*##.rc:has(a[href*="qna.one/"])
 google.*##.nrgt:has(a[href*="qna.one/"])
 google.*##.xpd.uUPGi:has(a[href*="qna.one/"])
+google.*##.g:has(a[href*="qna.one/"])
 duckduckgo.com##.result[data-domain$="qna.one"]
 duckduckgo.com##.web-result:has(a[href*="qna.one/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qna.one/"])
@@ -1135,6 +1244,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qna.one/"]
 google.*##.rc:has(a[href*="quabr.com/"])
 google.*##.nrgt:has(a[href*="quabr.com/"])
 google.*##.xpd.uUPGi:has(a[href*="quabr.com/"])
+google.*##.g:has(a[href*="quabr.com/"])
 duckduckgo.com##.result[data-domain$="quabr.com"]
 duckduckgo.com##.web-result:has(a[href*="quabr.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="quabr.com/"])
@@ -1144,6 +1254,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="quabr.com/
 google.*##.rc:has(a[href*="questions.pliz.biz/"])
 google.*##.nrgt:has(a[href*="questions.pliz.biz/"])
 google.*##.xpd.uUPGi:has(a[href*="questions.pliz.biz/"])
+google.*##.g:has(a[href*="questions.pliz.biz/"])
 duckduckgo.com##.result[data-domain$="questions.pliz.biz"]
 duckduckgo.com##.web-result:has(a[href*="questions.pliz.biz/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="questions.pliz.biz/"])
@@ -1153,6 +1264,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="questions.
 google.*##.rc:has(a[href*="quick-geek.github.io/"])
 google.*##.nrgt:has(a[href*="quick-geek.github.io/"])
 google.*##.xpd.uUPGi:has(a[href*="quick-geek.github.io/"])
+google.*##.g:has(a[href*="quick-geek.github.io/"])
 duckduckgo.com##.result[data-domain$="quick-geek.github.io"]
 duckduckgo.com##.web-result:has(a[href*="quick-geek.github.io/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="quick-geek.github.io/"])
@@ -1162,6 +1274,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="quick-geek
 google.*##.rc:has(a[href*="qwe.wiki/"])
 google.*##.nrgt:has(a[href*="qwe.wiki/"])
 google.*##.xpd.uUPGi:has(a[href*="qwe.wiki/"])
+google.*##.g:has(a[href*="qwe.wiki/"])
 duckduckgo.com##.result[data-domain$="qwe.wiki"]
 duckduckgo.com##.web-result:has(a[href*="qwe.wiki/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qwe.wiki/"])
@@ -1171,6 +1284,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qwe.wiki/"
 google.*##.rc:has(a[href*="refaq.ru/"])
 google.*##.nrgt:has(a[href*="refaq.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="refaq.ru/"])
+google.*##.g:has(a[href*="refaq.ru/"])
 duckduckgo.com##.result[data-domain$="refaq.ru"]
 duckduckgo.com##.web-result:has(a[href*="refaq.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="refaq.ru/"])
@@ -1180,6 +1294,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="refaq.ru/"
 google.*##.rc:has(a[href*="rstopup.com/"])
 google.*##.nrgt:has(a[href*="rstopup.com/"])
 google.*##.xpd.uUPGi:has(a[href*="rstopup.com/"])
+google.*##.g:has(a[href*="rstopup.com/"])
 duckduckgo.com##.result[data-domain$="rstopup.com"]
 duckduckgo.com##.web-result:has(a[href*="rstopup.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="rstopup.com/"])
@@ -1189,6 +1304,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="rstopup.co
 google.*##.rc:has(a[href*="ruphp.com/"])
 google.*##.nrgt:has(a[href*="ruphp.com/"])
 google.*##.xpd.uUPGi:has(a[href*="ruphp.com/"])
+google.*##.g:has(a[href*="ruphp.com/"])
 duckduckgo.com##.result[data-domain$="ruphp.com"]
 duckduckgo.com##.web-result:has(a[href*="ruphp.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ruphp.com/"])
@@ -1198,6 +1314,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="ruphp.com/
 google.*##.rc:has(a[href*="rupython.com/"])
 google.*##.nrgt:has(a[href*="rupython.com/"])
 google.*##.xpd.uUPGi:has(a[href*="rupython.com/"])
+google.*##.g:has(a[href*="rupython.com/"])
 duckduckgo.com##.result[data-domain$="rupython.com"]
 duckduckgo.com##.web-result:has(a[href*="rupython.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="rupython.com/"])
@@ -1207,6 +1324,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="rupython.c
 google.*##.rc:has(a[href*="showtop.info/"])
 google.*##.nrgt:has(a[href*="showtop.info/"])
 google.*##.xpd.uUPGi:has(a[href*="showtop.info/"])
+google.*##.g:has(a[href*="showtop.info/"])
 duckduckgo.com##.result[data-domain$="showtop.info"]
 duckduckgo.com##.web-result:has(a[href*="showtop.info/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="showtop.info/"])
@@ -1216,6 +1334,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="showtop.in
 google.*##.rc:has(a[href*="sobrelinux.info/"])
 google.*##.nrgt:has(a[href*="sobrelinux.info/"])
 google.*##.xpd.uUPGi:has(a[href*="sobrelinux.info/"])
+google.*##.g:has(a[href*="sobrelinux.info/"])
 duckduckgo.com##.result[data-domain$="sobrelinux.info"]
 duckduckgo.com##.web-result:has(a[href*="sobrelinux.info/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="sobrelinux.info/"])
@@ -1225,6 +1344,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="sobrelinux
 google.*##.rc:has(a[href*="soinside.com/"])
 google.*##.nrgt:has(a[href*="soinside.com/"])
 google.*##.xpd.uUPGi:has(a[href*="soinside.com/"])
+google.*##.g:has(a[href*="soinside.com/"])
 duckduckgo.com##.result[data-domain$="soinside.com"]
 duckduckgo.com##.web-result:has(a[href*="soinside.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="soinside.com/"])
@@ -1234,6 +1354,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="soinside.c
 google.*##.rc:has(a[href*="sozdizimi.com/"])
 google.*##.nrgt:has(a[href*="sozdizimi.com/"])
 google.*##.xpd.uUPGi:has(a[href*="sozdizimi.com/"])
+google.*##.g:has(a[href*="sozdizimi.com/"])
 duckduckgo.com##.result[data-domain$="sozdizimi.com"]
 duckduckgo.com##.web-result:has(a[href*="sozdizimi.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="sozdizimi.com/"])
@@ -1243,6 +1364,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="sozdizimi.
 google.*##.rc:has(a[href*="sprosi.pro/"])
 google.*##.nrgt:has(a[href*="sprosi.pro/"])
 google.*##.xpd.uUPGi:has(a[href*="sprosi.pro/"])
+google.*##.g:has(a[href*="sprosi.pro/"])
 duckduckgo.com##.result[data-domain$="sprosi.pro"]
 duckduckgo.com##.web-result:has(a[href*="sprosi.pro/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="sprosi.pro/"])
@@ -1252,6 +1374,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="sprosi.pro
 google.*##.rc:has(a[href*="src-bin.com/"])
 google.*##.nrgt:has(a[href*="src-bin.com/"])
 google.*##.xpd.uUPGi:has(a[href*="src-bin.com/"])
+google.*##.g:has(a[href*="src-bin.com/"])
 duckduckgo.com##.result[data-domain$="src-bin.com"]
 duckduckgo.com##.web-result:has(a[href*="src-bin.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="src-bin.com/"])
@@ -1261,6 +1384,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="src-bin.co
 google.*##.rc:has(a[href*="stackanswers.net/"])
 google.*##.nrgt:has(a[href*="stackanswers.net/"])
 google.*##.xpd.uUPGi:has(a[href*="stackanswers.net/"])
+google.*##.g:has(a[href*="stackanswers.net/"])
 duckduckgo.com##.result[data-domain$="stackanswers.net"]
 duckduckgo.com##.web-result:has(a[href*="stackanswers.net/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackanswers.net/"])
@@ -1270,6 +1394,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="stackanswe
 google.*##.rc:has(a[href*="stackoom.com/"])
 google.*##.nrgt:has(a[href*="stackoom.com/"])
 google.*##.xpd.uUPGi:has(a[href*="stackoom.com/"])
+google.*##.g:has(a[href*="stackoom.com/"])
 duckduckgo.com##.result[data-domain$="stackoom.com"]
 duckduckgo.com##.web-result:has(a[href*="stackoom.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackoom.com/"])
@@ -1279,6 +1404,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="stackoom.c
 google.*##.rc:has(a[href*="stackovernet.com/"])
 google.*##.nrgt:has(a[href*="stackovernet.com/"])
 google.*##.xpd.uUPGi:has(a[href*="stackovernet.com/"])
+google.*##.g:has(a[href*="stackovernet.com/"])
 duckduckgo.com##.result[data-domain$="stackovernet.com"]
 duckduckgo.com##.web-result:has(a[href*="stackovernet.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackovernet.com/"])
@@ -1288,6 +1414,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="stackovern
 google.*##.rc:has(a[href*="stackoverrun.com/"])
 google.*##.nrgt:has(a[href*="stackoverrun.com/"])
 google.*##.xpd.uUPGi:has(a[href*="stackoverrun.com/"])
+google.*##.g:has(a[href*="stackoverrun.com/"])
 duckduckgo.com##.result[data-domain$="stackoverrun.com"]
 duckduckgo.com##.web-result:has(a[href*="stackoverrun.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackoverrun.com/"])
@@ -1297,6 +1424,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="stackoverr
 google.*##.rc:has(a[href*="stackru.com/"])
 google.*##.nrgt:has(a[href*="stackru.com/"])
 google.*##.xpd.uUPGi:has(a[href*="stackru.com/"])
+google.*##.g:has(a[href*="stackru.com/"])
 duckduckgo.com##.result[data-domain$="stackru.com"]
 duckduckgo.com##.web-result:has(a[href*="stackru.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackru.com/"])
@@ -1306,6 +1434,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="stackru.co
 google.*##.rc:has(a[href*="stackz.ru/"])
 google.*##.nrgt:has(a[href*="stackz.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="stackz.ru/"])
+google.*##.g:has(a[href*="stackz.ru/"])
 duckduckgo.com##.result[data-domain$="stackz.ru"]
 duckduckgo.com##.web-result:has(a[href*="stackz.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackz.ru/"])
@@ -1315,6 +1444,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="stackz.ru/
 google.*##.rc:has(a[href*="switch-case.com/"])
 google.*##.nrgt:has(a[href*="switch-case.com/"])
 google.*##.xpd.uUPGi:has(a[href*="switch-case.com/"])
+google.*##.g:has(a[href*="switch-case.com/"])
 duckduckgo.com##.result[data-domain$="switch-case.com"]
 duckduckgo.com##.web-result:has(a[href*="switch-case.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="switch-case.com/"])
@@ -1324,6 +1454,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="switch-cas
 google.*##.rc:has(a[href*="switch-case.ru/"])
 google.*##.nrgt:has(a[href*="switch-case.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="switch-case.ru/"])
+google.*##.g:has(a[href*="switch-case.ru/"])
 duckduckgo.com##.result[data-domain$="switch-case.ru"]
 duckduckgo.com##.web-result:has(a[href*="switch-case.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="switch-case.ru/"])
@@ -1333,6 +1464,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="switch-cas
 google.*##.rc:has(a[href*="thinbug.com/"])
 google.*##.nrgt:has(a[href*="thinbug.com/"])
 google.*##.xpd.uUPGi:has(a[href*="thinbug.com/"])
+google.*##.g:has(a[href*="thinbug.com/"])
 duckduckgo.com##.result[data-domain$="thinbug.com"]
 duckduckgo.com##.web-result:has(a[href*="thinbug.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="thinbug.com/"])
@@ -1342,6 +1474,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="thinbug.co
 google.*##.rc:has(a[href*="ubuntugeeks.com/"])
 google.*##.nrgt:has(a[href*="ubuntugeeks.com/"])
 google.*##.xpd.uUPGi:has(a[href*="ubuntugeeks.com/"])
+google.*##.g:has(a[href*="ubuntugeeks.com/"])
 duckduckgo.com##.result[data-domain$="ubuntugeeks.com"]
 duckduckgo.com##.web-result:has(a[href*="ubuntugeeks.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ubuntugeeks.com/"])
@@ -1351,6 +1484,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="ubuntugeek
 google.*##.rc:has(a[href*="ubuntuplace.info/"])
 google.*##.nrgt:has(a[href*="ubuntuplace.info/"])
 google.*##.xpd.uUPGi:has(a[href*="ubuntuplace.info/"])
+google.*##.g:has(a[href*="ubuntuplace.info/"])
 duckduckgo.com##.result[data-domain$="ubuntuplace.info"]
 duckduckgo.com##.web-result:has(a[href*="ubuntuplace.info/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ubuntuplace.info/"])
@@ -1360,6 +1494,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="ubuntuplac
 google.*##.rc:has(a[href*="ubuntuweb.info/"])
 google.*##.nrgt:has(a[href*="ubuntuweb.info/"])
 google.*##.xpd.uUPGi:has(a[href*="ubuntuweb.info/"])
+google.*##.g:has(a[href*="ubuntuweb.info/"])
 duckduckgo.com##.result[data-domain$="ubuntuweb.info"]
 duckduckgo.com##.web-result:has(a[href*="ubuntuweb.info/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ubuntuweb.info/"])
@@ -1369,6 +1504,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="ubuntuweb.
 google.*##.rc:has(a[href*="usersuper.ru/"])
 google.*##.nrgt:has(a[href*="usersuper.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="usersuper.ru/"])
+google.*##.g:has(a[href*="usersuper.ru/"])
 duckduckgo.com##.result[data-domain$="usersuper.ru"]
 duckduckgo.com##.web-result:has(a[href*="usersuper.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="usersuper.ru/"])
@@ -1378,6 +1514,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="usersuper.
 google.*##.rc:has(a[href*="uwenku.com/"])
 google.*##.nrgt:has(a[href*="uwenku.com/"])
 google.*##.xpd.uUPGi:has(a[href*="uwenku.com/"])
+google.*##.g:has(a[href*="uwenku.com/"])
 duckduckgo.com##.result[data-domain$="uwenku.com"]
 duckduckgo.com##.web-result:has(a[href*="uwenku.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="uwenku.com/"])
@@ -1387,6 +1524,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="uwenku.com
 google.*##.rc:has(a[href*="vike.io/"])
 google.*##.nrgt:has(a[href*="vike.io/"])
 google.*##.xpd.uUPGi:has(a[href*="vike.io/"])
+google.*##.g:has(a[href*="vike.io/"])
 duckduckgo.com##.result[data-domain$="vike.io"]
 duckduckgo.com##.web-result:has(a[href*="vike.io/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="vike.io/"])
@@ -1396,6 +1534,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="vike.io/"]
 google.*##.rc:has(a[href*="voidcc.com/"])
 google.*##.nrgt:has(a[href*="voidcc.com/"])
 google.*##.xpd.uUPGi:has(a[href*="voidcc.com/"])
+google.*##.g:has(a[href*="voidcc.com/"])
 duckduckgo.com##.result[data-domain$="voidcc.com"]
 duckduckgo.com##.web-result:has(a[href*="voidcc.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="voidcc.com/"])
@@ -1405,6 +1544,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="voidcc.com
 google.*##.rc:has(a[href*="vpros.ru/"])
 google.*##.nrgt:has(a[href*="vpros.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="vpros.ru/"])
+google.*##.g:has(a[href*="vpros.ru/"])
 duckduckgo.com##.result[data-domain$="vpros.ru"]
 duckduckgo.com##.web-result:has(a[href*="vpros.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="vpros.ru/"])
@@ -1414,6 +1554,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="vpros.ru/"
 google.*##.rc:has(a[href*="v-resheno.ru/"])
 google.*##.nrgt:has(a[href*="v-resheno.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="v-resheno.ru/"])
+google.*##.g:has(a[href*="v-resheno.ru/"])
 duckduckgo.com##.result[data-domain$="v-resheno.ru"]
 duckduckgo.com##.web-result:has(a[href*="v-resheno.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="v-resheno.ru/"])
@@ -1423,6 +1564,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="v-resheno.
 google.*##.rc:has(a[href*="web-answers.ru/"])
 google.*##.nrgt:has(a[href*="web-answers.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="web-answers.ru/"])
+google.*##.g:has(a[href*="web-answers.ru/"])
 duckduckgo.com##.result[data-domain$="web-answers.ru"]
 duckduckgo.com##.web-result:has(a[href*="web-answers.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="web-answers.ru/"])
@@ -1432,6 +1574,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="web-answer
 google.*##.rc:has(a[href*="while-do.com/"])
 google.*##.nrgt:has(a[href*="while-do.com/"])
 google.*##.xpd.uUPGi:has(a[href*="while-do.com/"])
+google.*##.g:has(a[href*="while-do.com/"])
 duckduckgo.com##.result[data-domain$="while-do.com"]
 duckduckgo.com##.web-result:has(a[href*="while-do.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="while-do.com/"])
@@ -1441,6 +1584,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="while-do.c
 google.*##.rc:has(a[href*="wikiroot.ru/"])
 google.*##.nrgt:has(a[href*="wikiroot.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="wikiroot.ru/"])
+google.*##.g:has(a[href*="wikiroot.ru/"])
 duckduckgo.com##.result[data-domain$="wikiroot.ru"]
 duckduckgo.com##.web-result:has(a[href*="wikiroot.ru/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="wikiroot.ru/"])
@@ -1450,6 +1594,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="wikiroot.r
 google.*##.rc:has(a[href*="xbuba.com/"])
 google.*##.nrgt:has(a[href*="xbuba.com/"])
 google.*##.xpd.uUPGi:has(a[href*="xbuba.com/"])
+google.*##.g:has(a[href*="xbuba.com/"])
 duckduckgo.com##.result[data-domain$="xbuba.com"]
 duckduckgo.com##.web-result:has(a[href*="xbuba.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="xbuba.com/"])
@@ -1459,6 +1604,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="xbuba.com/
 google.*##.rc:has(a[href*="xszz.org/"])
 google.*##.nrgt:has(a[href*="xszz.org/"])
 google.*##.xpd.uUPGi:has(a[href*="xszz.org/"])
+google.*##.g:has(a[href*="xszz.org/"])
 duckduckgo.com##.result[data-domain$="xszz.org"]
 duckduckgo.com##.web-result:has(a[href*="xszz.org/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="xszz.org/"])
@@ -1468,6 +1614,7 @@ startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="xszz.org/"
 google.*##.rc:has(a[href*="zapytay.com/"])
 google.*##.nrgt:has(a[href*="zapytay.com/"])
 google.*##.xpd.uUPGi:has(a[href*="zapytay.com/"])
+google.*##.g:has(a[href*="zapytay.com/"])
 duckduckgo.com##.result[data-domain$="zapytay.com"]
 duckduckgo.com##.web-result:has(a[href*="zapytay.com/"])
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="zapytay.com/"])
