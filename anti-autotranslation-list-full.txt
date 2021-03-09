@@ -110,6 +110,7 @@ qastack.ru
 qastack.vn
 qna.one
 quabr.com
+question-it.com
 questions.pliz.biz
 quick-geek.github.io
 qwe.wiki
@@ -1252,6 +1253,16 @@ duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][hre
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="quabr.com/"]) + tr
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="quabr.com/"]) + tr + tr
 startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="quabr.com/"])
+google.*##.rc:has(a[href*="question-it.com/"])
+google.*##.nrgt:has(a[href*="question-it.com/"])
+google.*##.xpd.uUPGi:has(a[href*="question-it.com/"])
+google.*##.g:has(a[href*="question-it.com/"])
+duckduckgo.com##.result[data-domain$="question-it.com"]
+duckduckgo.com##.web-result:has(a[href*="question-it.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="question-it.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="question-it.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="question-it.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="question-it.com/"])
 google.*##.rc:has(a[href*="questions.pliz.biz/"])
 google.*##.nrgt:has(a[href*="questions.pliz.biz/"])
 google.*##.xpd.uUPGi:has(a[href*="questions.pliz.biz/"])
