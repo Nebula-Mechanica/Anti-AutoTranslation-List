@@ -63,6 +63,7 @@ itkerdes.com
 itproblemy.pl
 itranslater.com
 it-swarm.asia
+it-swarm.com.ru
 it-swarm.dev
 it-swarm.net
 it-swarm.xyz
@@ -110,6 +111,7 @@ qastack.ru
 qastack.vn
 qna.one
 quabr.com
+quares.ru
 question-it.com
 questions.pliz.biz
 quick-geek.github.io

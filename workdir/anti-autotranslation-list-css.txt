@@ -628,6 +628,16 @@ duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][hre
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="it-swarm.asia/"]) + tr
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="it-swarm.asia/"]) + tr + tr
 startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="it-swarm.asia/"])
+google.*##.rc:has(a[href*="it-swarm.com.ru/"])
+google.*##.nrgt:has(a[href*="it-swarm.com.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="it-swarm.com.ru/"])
+google.*##.g:has(a[href*="it-swarm.com.ru/"])
+duckduckgo.com##.result[data-domain$="it-swarm.com.ru"]
+duckduckgo.com##.web-result:has(a[href*="it-swarm.com.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="it-swarm.com.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="it-swarm.com.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="it-swarm.com.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="it-swarm.com.ru/"])
 google.*##.rc:has(a[href*="it-swarm.dev/"])
 google.*##.nrgt:has(a[href*="it-swarm.dev/"])
 google.*##.xpd.uUPGi:has(a[href*="it-swarm.dev/"])
@@ -1098,6 +1108,16 @@ duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][hre
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="quabr.com/"]) + tr
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="quabr.com/"]) + tr + tr
 startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="quabr.com/"])
+google.*##.rc:has(a[href*="quares.ru/"])
+google.*##.nrgt:has(a[href*="quares.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="quares.ru/"])
+google.*##.g:has(a[href*="quares.ru/"])
+duckduckgo.com##.result[data-domain$="quares.ru"]
+duckduckgo.com##.web-result:has(a[href*="quares.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="quares.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="quares.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="quares.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="quares.ru/"])
 google.*##.rc:has(a[href*="question-it.com/"])
 google.*##.nrgt:has(a[href*="question-it.com/"])
 google.*##.xpd.uUPGi:has(a[href*="question-it.com/"])
