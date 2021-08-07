@@ -13,6 +13,7 @@ asknix.com
 ask-ubuntu.ru
 askubuntu.ru
 askvoprosy.com
+begin-it.com
 bestecode.com
 bildiredi.com
 bilee.com
@@ -57,6 +58,7 @@ husl.ru
 icode9.com
 i-harness.com
 intellipaat.com
+ip-calculator.ru
 issue.life
 itdaan.com
 itkerdes.com
@@ -147,6 +149,7 @@ vpros.ru
 v-resheno.ru
 web-answers.ru
 while-do.com
+wikichi.ru
 wikiroot.ru
 xbuba.com
 xszz.org

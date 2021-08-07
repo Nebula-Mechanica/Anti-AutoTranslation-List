@@ -128,6 +128,16 @@ duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][hre
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askvoprosy.com/"]) + tr
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askvoprosy.com/"]) + tr + tr
 startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="askvoprosy.com/"])
+google.*##.rc:has(a[href*="begin-it.com/"])
+google.*##.nrgt:has(a[href*="begin-it.com/"])
+google.*##.xpd.uUPGi:has(a[href*="begin-it.com/"])
+google.*##.g:has(a[href*="begin-it.com/"])
+duckduckgo.com##.result[data-domain$="begin-it.com"]
+duckduckgo.com##.web-result:has(a[href*="begin-it.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="begin-it.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="begin-it.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="begin-it.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="begin-it.com/"])
 google.*##.rc:has(a[href*="bestecode.com/"])
 google.*##.nrgt:has(a[href*="bestecode.com/"])
 google.*##.xpd.uUPGi:has(a[href*="bestecode.com/"])
@@ -568,6 +578,16 @@ duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][hre
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="intellipaat.com/"]) + tr
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="intellipaat.com/"]) + tr + tr
 startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="intellipaat.com/"])
+google.*##.rc:has(a[href*="ip-calculator.ru/"])
+google.*##.nrgt:has(a[href*="ip-calculator.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="ip-calculator.ru/"])
+google.*##.g:has(a[href*="ip-calculator.ru/"])
+duckduckgo.com##.result[data-domain$="ip-calculator.ru"]
+duckduckgo.com##.web-result:has(a[href*="ip-calculator.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ip-calculator.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ip-calculator.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ip-calculator.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="ip-calculator.ru/"])
 google.*##.rc:has(a[href*="issue.life/"])
 google.*##.nrgt:has(a[href*="issue.life/"])
 google.*##.xpd.uUPGi:has(a[href*="issue.life/"])
@@ -1468,6 +1488,16 @@ duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][hre
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="while-do.com/"]) + tr
 duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="while-do.com/"]) + tr + tr
 startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="while-do.com/"])
+google.*##.rc:has(a[href*="wikichi.ru/"])
+google.*##.nrgt:has(a[href*="wikichi.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="wikichi.ru/"])
+google.*##.g:has(a[href*="wikichi.ru/"])
+duckduckgo.com##.result[data-domain$="wikichi.ru"]
+duckduckgo.com##.web-result:has(a[href*="wikichi.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="wikichi.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="wikichi.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="wikichi.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="wikichi.ru/"])
 google.*##.rc:has(a[href*="wikiroot.ru/"])
 google.*##.nrgt:has(a[href*="wikiroot.ru/"])
 google.*##.xpd.uUPGi:has(a[href*="wikiroot.ru/"])
