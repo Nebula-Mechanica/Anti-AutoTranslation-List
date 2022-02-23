@@ -9,6 +9,7 @@ answeright.com
 askdev.info
 askdev.io
 askdev.ru
+askentire.net
 asknix.com
 ask-ubuntu.ru
 askubuntu.ru
@@ -74,6 +75,7 @@ javahow.ru
 kompsekret.ru
 kotaeta.com
 myht.ru
+neurohelp.info
 ohandroid.com
 oipapio.com
 onstartup.ru
@@ -111,6 +113,7 @@ qastack.net.bd
 qa-stack.pl
 qastack.ru
 qastack.vn
+qaz.wiki
 qna.one
 quabr.com
 quares.ru
@@ -122,6 +125,7 @@ refaq.ru
 rstopup.com
 ruphp.com
 rupython.com
+russianblogs.com
 showtop.info
 sobrelinux.info
 soinside.com
@@ -137,6 +141,7 @@ stackz.ru
 switch-case.com
 switch-case.ru
 techexpert.tips
+technoglitz.com
 thinbug.com
 ubuntugeeks.com
 ubuntuplace.info
@@ -150,7 +155,9 @@ v-resheno.ru
 web-answers.ru
 while-do.com
 wikichi.ru
+wikipedia.tel
 wikiroot.ru
+window-10.ru
 xbuba.com
 xszz.org
 zapytay.com
